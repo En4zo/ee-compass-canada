@@ -1,0 +1,4011 @@
+{
+  "fetchedAt": "2026-09-18T20:54:58.062147+00:00",
+  "source": "https://www.canada.ca/content/dam/ircc/documents/json/ee_rounds_123_en.json",
+  "draws": [
+    {
+      "draw_number": "444",
+      "date": "2026-09-16",
+      "round_type": "Senior managers with Canadian Work Experience, 2026-Version 1",
+      "invitations": 250,
+      "crs": 389,
+      "tie_breaking": "September 01, 2026 at 23:05:13 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=444"
+    },
+    {
+      "draw_number": "443",
+      "date": "2026-09-15",
+      "round_type": "Canadian Experience Class",
+      "invitations": 2000,
+      "crs": 519,
+      "tie_breaking": "March 26, 2026 at 00:16:39 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=443"
+    },
+    {
+      "draw_number": "442",
+      "date": "2026-09-14",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 576,
+      "crs": 734,
+      "tie_breaking": "August 29, 2026 at 21:39:50 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=442"
+    },
+    {
+      "draw_number": "441",
+      "date": "2026-09-04",
+      "round_type": "Healthcare and Social Services Occupations, 2026-Version 3",
+      "invitations": 3500,
+      "crs": 475,
+      "tie_breaking": "May 26, 2026 at 00:26:14 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=441"
+    },
+    {
+      "draw_number": "440",
+      "date": "2026-09-03",
+      "round_type": "Physicians with Canadian Work Experience, 2026-Version 1",
+      "invitations": 229,
+      "crs": 198,
+      "tie_breaking": "August 06, 2026 at 19:40:38 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=440"
+    },
+    {
+      "draw_number": "439",
+      "date": "2026-09-01",
+      "round_type": "Canadian Experience Class",
+      "invitations": 2000,
+      "crs": 521,
+      "tie_breaking": "August 18, 2026 at 03:24:13 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=439"
+    },
+    {
+      "draw_number": "438",
+      "date": "2026-08-31",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 562,
+      "crs": 697,
+      "tie_breaking": "April 12th, 2026 at 04:32:26 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=438"
+    },
+    {
+      "draw_number": "437",
+      "date": "2026-08-19",
+      "round_type": "French-Language proficiency 2026-Version 2",
+      "invitations": 5000,
+      "crs": 382,
+      "tie_breaking": "March 1, 2026 at 18:34:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=437"
+    },
+    {
+      "draw_number": "436",
+      "date": "2026-08-18",
+      "round_type": "Canadian Experience Class",
+      "invitations": 1000,
+      "crs": 523,
+      "tie_breaking": "August 17, 2026 at 22:09:00 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=436"
+    },
+    {
+      "draw_number": "435",
+      "date": "2026-08-17",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 442,
+      "crs": 760,
+      "tie_breaking": "August 07, 2026 at 18:01:56 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=435"
+    },
+    {
+      "draw_number": "434",
+      "date": "2026-08-07",
+      "round_type": "Transport Occupations, 2026-Version 2",
+      "invitations": 300,
+      "crs": 470,
+      "tie_breaking": "October 11, 2025 at 14:55:49 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=434"
+    },
+    {
+      "draw_number": "433",
+      "date": "2026-08-06",
+      "round_type": "French-Language proficiency 2026-Version 2",
+      "invitations": 5000,
+      "crs": 391,
+      "tie_breaking": "March 18, 2026 at 23:32:40 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=433"
+    },
+    {
+      "draw_number": "432",
+      "date": "2026-08-05",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3000,
+      "crs": 516,
+      "tie_breaking": "July 3rd 2026 at 21:35:13 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=432"
+    },
+    {
+      "draw_number": "431",
+      "date": "2026-08-04",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 507,
+      "crs": 768,
+      "tie_breaking": "May 15, 2026 at 15:58:19 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=431"
+    },
+    {
+      "draw_number": "430",
+      "date": "2026-07-23",
+      "round_type": "Skilled Military Recruits, 2026-Version 1",
+      "invitations": 4,
+      "crs": 368,
+      "tie_breaking": "June 02, 2026 at 20:11:26 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=430"
+    },
+    {
+      "draw_number": "429",
+      "date": "2026-07-22",
+      "round_type": "French-Language proficiency 2026-Version 2",
+      "invitations": 5000,
+      "crs": 399,
+      "tie_breaking": "November 19, 2025 at 21:21:56 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=429"
+    },
+    {
+      "draw_number": "428",
+      "date": "2026-07-21",
+      "round_type": "Canadian Experience Class",
+      "invitations": 2000,
+      "crs": 516,
+      "tie_breaking": "May 26, 2026 at 17:33:03 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=428"
+    },
+    {
+      "draw_number": "427",
+      "date": "2026-07-20",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 511,
+      "crs": 744,
+      "tie_breaking": "May 26, 2026 at 18:11:36 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=427"
+    },
+    {
+      "draw_number": "426",
+      "date": "2026-07-10",
+      "round_type": "Senior managers with Canadian Work Experience, 2026-Version 1",
+      "invitations": 500,
+      "crs": 392,
+      "tie_breaking": "March 15, 2026 at 01:46:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=426"
+    },
+    {
+      "draw_number": "425",
+      "date": "2026-07-09",
+      "round_type": "French-Language proficiency 2026-Version 2",
+      "invitations": 5000,
+      "crs": 420,
+      "tie_breaking": "May 15, 2026 at 08:04:00 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=425"
+    },
+    {
+      "draw_number": "424",
+      "date": "2026-07-07",
+      "round_type": "Canadian Experience Class",
+      "invitations": 2000,
+      "crs": 517,
+      "tie_breaking": "December 29, 2025 at 17:49:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=424"
+    },
+    {
+      "draw_number": "423",
+      "date": "2026-07-06",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 534,
+      "crs": 708,
+      "tie_breaking": "June 4, 2026 at 14:49:51 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=423"
+    },
+    {
+      "draw_number": "422",
+      "date": "2026-06-25",
+      "round_type": "Healthcare and Social Services Occupations, 2026-Version 3",
+      "invitations": 4000,
+      "crs": 475,
+      "tie_breaking": "May 21, 2026 at  12:14:09 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=422"
+    },
+    {
+      "draw_number": "421",
+      "date": "2026-06-24",
+      "round_type": "Physicians with Canadian Work Experience, 2026-Version 1",
+      "invitations": 271,
+      "crs": 223,
+      "tie_breaking": "May 31, 2026 at 18:13:49 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=421"
+    },
+    {
+      "draw_number": "420",
+      "date": "2026-06-23",
+      "round_type": "Canadian Experience Class",
+      "invitations": 4000,
+      "crs": 516,
+      "tie_breaking": "April 14, 2026 at 00:03:10 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=420"
+    },
+    {
+      "draw_number": "419",
+      "date": "2026-06-22",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 955,
+      "crs": 730,
+      "tie_breaking": "March 09, 2026 at 01:02:28 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=419"
+    },
+    {
+      "draw_number": "418",
+      "date": "2026-05-28",
+      "round_type": "French-Language proficiency 2026-Version 2",
+      "invitations": 4500,
+      "crs": 409,
+      "tie_breaking": "April 29, 2026 at 22:20:00 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=418"
+    },
+    {
+      "draw_number": "417",
+      "date": "2026-05-27",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3000,
+      "crs": 518,
+      "tie_breaking": "April 30, 2026 at 03:16:01 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=417"
+    },
+    {
+      "draw_number": "416",
+      "date": "2026-05-25",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 334,
+      "crs": 805,
+      "tie_breaking": "October 16, 2025 at 18:16:33 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=416"
+    },
+    {
+      "draw_number": "415",
+      "date": "2026-05-11",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 380,
+      "crs": 798,
+      "tie_breaking": "January 07, 2026 at 05:23:31 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=415"
+    },
+    {
+      "draw_number": "414",
+      "date": "2026-04-29",
+      "round_type": "French-Language proficiency 2026-Version 2",
+      "invitations": 4000,
+      "crs": 400,
+      "tie_breaking": "April 07, 2026 at 20:13:59 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=414"
+    },
+    {
+      "draw_number": "413",
+      "date": "2026-04-28",
+      "round_type": "Canadian Experience Class",
+      "invitations": 2000,
+      "crs": 514,
+      "tie_breaking": "September 24, 2025 at 14:18:43 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=413"
+    },
+    {
+      "draw_number": "412",
+      "date": "2026-04-27",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 473,
+      "crs": 795,
+      "tie_breaking": "April 13, 2026  at 23:10:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=412"
+    },
+    {
+      "draw_number": "411",
+      "date": "2026-04-15",
+      "round_type": "French-Language proficiency 2026-Version 2",
+      "invitations": 4000,
+      "crs": 419,
+      "tie_breaking": "November 14, 2025 at 07:14:25 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=411"
+    },
+    {
+      "draw_number": "410",
+      "date": "2026-04-14",
+      "round_type": "Canadian Experience Class",
+      "invitations": 2000,
+      "crs": 515,
+      "tie_breaking": "June 10, 2025 at 02:46:26 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=410"
+    },
+    {
+      "draw_number": "409",
+      "date": "2026-04-13",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 324,
+      "crs": 786,
+      "tie_breaking": "November 19, 2025 at 18:53:59 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=409"
+    },
+    {
+      "draw_number": "408",
+      "date": "2026-04-02",
+      "round_type": "Trades Occupations, 2026-Version 3",
+      "invitations": 3000,
+      "crs": 477,
+      "tie_breaking": "February 14, 2026 at 20:53:54 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=408"
+    },
+    {
+      "draw_number": "407",
+      "date": "2026-03-31",
+      "round_type": "Canadian Experience Class",
+      "invitations": 2250,
+      "crs": 509,
+      "tie_breaking": "March 18, 2026 at 08:27:11 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=407"
+    },
+    {
+      "draw_number": "406",
+      "date": "2026-03-30",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 356,
+      "crs": 802,
+      "tie_breaking": "February 12, 2026 at 03:54:03 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=406"
+    },
+    {
+      "draw_number": "405",
+      "date": "2026-03-18",
+      "round_type": "French-Language proficiency 2026-Version 2",
+      "invitations": 4000,
+      "crs": 393,
+      "tie_breaking": "December 29, 2025 at 12:47:31 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=405"
+    },
+    {
+      "draw_number": "404",
+      "date": "2026-03-17",
+      "round_type": "Canadian Experience Class",
+      "invitations": 4000,
+      "crs": 507,
+      "tie_breaking": "May 11, 2025 at 18:57:31 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=404"
+    },
+    {
+      "draw_number": "403",
+      "date": "2026-03-16",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 362,
+      "crs": 742,
+      "tie_breaking": "October 05, 2025 at 20:35:25 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=403"
+    },
+    {
+      "draw_number": "402",
+      "date": "2026-03-05",
+      "round_type": "Senior managers with Canadian Work Experience, 2026-Version 1",
+      "invitations": 250,
+      "crs": 429,
+      "tie_breaking": "August 19, 2025 at 15:10:18 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=402"
+    },
+    {
+      "draw_number": "401",
+      "date": "2026-03-04",
+      "round_type": "French-Language proficiency 2026-Version 2",
+      "invitations": 5500,
+      "crs": 397,
+      "tie_breaking": "October 10, 2025 at 18:18:20 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=401"
+    },
+    {
+      "draw_number": "400",
+      "date": "2026-03-03",
+      "round_type": "Canadian Experience Class",
+      "invitations": 4000,
+      "crs": 508,
+      "tie_breaking": "June 24, 2025 at 22:35:48 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=400"
+    },
+    {
+      "draw_number": "399",
+      "date": "2026-03-02",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 264,
+      "crs": 710,
+      "tie_breaking": "August 07, 2025 at 18:02:56 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=399"
+    },
+    {
+      "draw_number": "398",
+      "date": "2026-02-20",
+      "round_type": "Healthcare and Social Services Occupations, 2026-Version 3",
+      "invitations": 4000,
+      "crs": 467,
+      "tie_breaking": "December 09, 2025 at 18:22:06 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=398"
+    },
+    {
+      "draw_number": "397",
+      "date": "2026-02-19",
+      "round_type": "Physicians with Canadian Work Experience, 2026-Version 1",
+      "invitations": 391,
+      "crs": 169,
+      "tie_breaking": "January 03, 2026 at 03:25:14 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=397"
+    },
+    {
+      "draw_number": "396",
+      "date": "2026-02-17",
+      "round_type": "Canadian Experience Class",
+      "invitations": 6000,
+      "crs": 508,
+      "tie_breaking": "March 16, 2025 at 09:35:59 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=396"
+    },
+    {
+      "draw_number": "395",
+      "date": "2026-02-16",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 279,
+      "crs": 789,
+      "tie_breaking": "September 05, 2025 at 0:59:13 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=395"
+    },
+    {
+      "draw_number": "394",
+      "date": "2026-02-06",
+      "round_type": "French-Language proficiency 2026-Version 2",
+      "invitations": 8500,
+      "crs": 400,
+      "tie_breaking": "February 03, 2026 at 11:11:44 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=394"
+    },
+    {
+      "draw_number": "393",
+      "date": "2026-02-03",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 423,
+      "crs": 749,
+      "tie_breaking": "December 16, 2025 at 22:30:36 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=393"
+    },
+    {
+      "draw_number": "392",
+      "date": "2026-01-21",
+      "round_type": "Canadian Experience Class",
+      "invitations": 6000,
+      "crs": 509,
+      "tie_breaking": "October 29, 2025 at 04:35:24 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=392"
+    },
+    {
+      "draw_number": "391",
+      "date": "2026-01-20",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 681,
+      "crs": 746,
+      "tie_breaking": "November 19, 2025 at 04:09:11 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=391"
+    },
+    {
+      "draw_number": "390",
+      "date": "2026-01-07",
+      "round_type": "Canadian Experience Class",
+      "invitations": 8000,
+      "crs": 511,
+      "tie_breaking": "June 10, 2025 at 15:59:25 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=390"
+    },
+    {
+      "draw_number": "389",
+      "date": "2026-01-05",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 574,
+      "crs": 711,
+      "tie_breaking": "October 06, 2025 at 01:54:31 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=389"
+    },
+    {
+      "draw_number": "388",
+      "date": "2025-12-17",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 6000,
+      "crs": 399,
+      "tie_breaking": "August 24, 2025 at 23:43:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=388"
+    },
+    {
+      "draw_number": "387",
+      "date": "2025-12-16",
+      "round_type": "Canadian Experience Class",
+      "invitations": 5000,
+      "crs": 515,
+      "tie_breaking": "September 9, 2025 at 18:58:59 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=387"
+    },
+    {
+      "draw_number": "386",
+      "date": "2025-12-15",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 399,
+      "crs": 731,
+      "tie_breaking": "October 18, 2025 at  7:18:52 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=386"
+    },
+    {
+      "draw_number": "385",
+      "date": "2025-12-11",
+      "round_type": "Healthcare and social services occupations (Version 2)",
+      "invitations": 1000,
+      "crs": 476,
+      "tie_breaking": "November 26, 2025 at 07:44:30 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=385"
+    },
+    {
+      "draw_number": "384",
+      "date": "2025-12-10",
+      "round_type": "Canadian Experience Class",
+      "invitations": 6000,
+      "crs": 520,
+      "tie_breaking": "July 15, 2025 at 17:30:33 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=384"
+    },
+    {
+      "draw_number": "383",
+      "date": "2025-12-08",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1123,
+      "crs": 729,
+      "tie_breaking": "March 05, 2025 at 05:10:48",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=383"
+    },
+    {
+      "draw_number": "382",
+      "date": "2025-11-28",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 6000,
+      "crs": 408,
+      "tie_breaking": "May 26 2025 at 12:28:38 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=382"
+    },
+    {
+      "draw_number": "381",
+      "date": "2025-11-26",
+      "round_type": "Canadian Experience Class",
+      "invitations": 1000,
+      "crs": 531,
+      "tie_breaking": "October 08, 2025 at 19:02:26 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=381"
+    },
+    {
+      "draw_number": "380",
+      "date": "2025-11-25",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 777,
+      "crs": 699,
+      "tie_breaking": "September 06, 2025 at 01:16:22 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=380"
+    },
+    {
+      "draw_number": "379",
+      "date": "2025-11-14",
+      "round_type": "Healthcare and social services occupations (Version 2)",
+      "invitations": 3500,
+      "crs": 462,
+      "tie_breaking": "December 02, 2024 at 22:19:41 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=379"
+    },
+    {
+      "draw_number": "378",
+      "date": "2025-11-12",
+      "round_type": "Canadian Experience Class",
+      "invitations": 1000,
+      "crs": 533,
+      "tie_breaking": "October 17, 2025 at 03:39:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=378"
+    },
+    {
+      "draw_number": "377",
+      "date": "2025-11-10",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 714,
+      "crs": 738,
+      "tie_breaking": "February 22, 2025 at 2:12:01 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=377"
+    },
+    {
+      "draw_number": "376",
+      "date": "2025-10-29",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 6000,
+      "crs": 416,
+      "tie_breaking": "September 8, 2025 at 15:27:09 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=376"
+    },
+    {
+      "draw_number": "375",
+      "date": "2025-10-28",
+      "round_type": "Canadian Experience Class",
+      "invitations": 1000,
+      "crs": 533,
+      "tie_breaking": "March 21, 2025 at 04:16:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=375"
+    },
+    {
+      "draw_number": "374",
+      "date": "2025-10-27",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 302,
+      "crs": 761,
+      "tie_breaking": "September 26, 2025 at 02:14:06 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=374"
+    },
+    {
+      "draw_number": "373",
+      "date": "2025-10-15",
+      "round_type": "Healthcare and social services occupations (Version 2)",
+      "invitations": 2500,
+      "crs": 472,
+      "tie_breaking": "May 12, 2025 at 23:17:30 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=373"
+    },
+    {
+      "draw_number": "372",
+      "date": "2025-10-14",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 345,
+      "crs": 778,
+      "tie_breaking": "July 17, 2025 at 19:58:49 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=372"
+    },
+    {
+      "draw_number": "371",
+      "date": "2025-10-06",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 4500,
+      "crs": 432,
+      "tie_breaking": "June 13, 2025 at 19:07:01 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=371"
+    },
+    {
+      "draw_number": "370",
+      "date": "2025-10-01",
+      "round_type": "Canadian Experience Class",
+      "invitations": 1000,
+      "crs": 534,
+      "tie_breaking": "February 21, 2025 at 04:01:57 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=370"
+    },
+    {
+      "draw_number": "369",
+      "date": "2025-09-29",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 291,
+      "crs": 855,
+      "tie_breaking": "April 08, 2025 at 01:25:29 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=369"
+    },
+    {
+      "draw_number": "368",
+      "date": "2025-09-18",
+      "round_type": "Trade occupations (Version 2)",
+      "invitations": 1250,
+      "crs": 505,
+      "tie_breaking": "November 05, 2024 at 22:36:09 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=368"
+    },
+    {
+      "draw_number": "367",
+      "date": "2025-09-17",
+      "round_type": "Education occupations (Version 1)",
+      "invitations": 2500,
+      "crs": 462,
+      "tie_breaking": "July 09, 2025 at 04:24:19 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=367"
+    },
+    {
+      "draw_number": "366",
+      "date": "2025-09-15",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 228,
+      "crs": 746,
+      "tie_breaking": "March 31, 2025 at 13:39:06 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=366"
+    },
+    {
+      "draw_number": "365",
+      "date": "2025-09-04",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 4500,
+      "crs": 446,
+      "tie_breaking": "June 16, 2025 at 07:21:06 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=365"
+    },
+    {
+      "draw_number": "364",
+      "date": "2025-09-03",
+      "round_type": "Canadian Experience Class",
+      "invitations": 1000,
+      "crs": 534,
+      "tie_breaking": "August 14, 2025 at 08:28:38 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=364"
+    },
+    {
+      "draw_number": "363",
+      "date": "2025-09-02",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 249,
+      "crs": 772,
+      "tie_breaking": "August 28, 2025 at 19:19:18 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=363"
+    },
+    {
+      "draw_number": "362",
+      "date": "2025-08-19",
+      "round_type": "Healthcare and social services occupations (Version 2)",
+      "invitations": 2500,
+      "crs": 470,
+      "tie_breaking": "April 23, 2025 at 20:08:53 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=362"
+    },
+    {
+      "draw_number": "361",
+      "date": "2025-08-18",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 192,
+      "crs": 800,
+      "tie_breaking": "February 11, 2025 at 19:17:09 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=361"
+    },
+    {
+      "draw_number": "360",
+      "date": "2025-08-08",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 2500,
+      "crs": 481,
+      "tie_breaking": "July 18, 2025 at 05:16:06 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=360"
+    },
+    {
+      "draw_number": "359",
+      "date": "2025-08-07",
+      "round_type": "Canadian Experience Class",
+      "invitations": 1000,
+      "crs": 534,
+      "tie_breaking": "August 03, 2025 at 06:22:02 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=359"
+    },
+    {
+      "draw_number": "358",
+      "date": "2025-08-06",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 225,
+      "crs": 739,
+      "tie_breaking": "April 23, 2025 at 06:35:51 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=358"
+    },
+    {
+      "draw_number": "357",
+      "date": "2025-07-22",
+      "round_type": "Healthcare and social services occupations (Version 2)",
+      "invitations": 4000,
+      "crs": 475,
+      "tie_breaking": "March 13, 2025 at 13:08:29 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=357"
+    },
+    {
+      "draw_number": "356",
+      "date": "2025-07-21",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 202,
+      "crs": 788,
+      "tie_breaking": "June 05, 2025 at 23:50:45 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=356"
+    },
+    {
+      "draw_number": "355",
+      "date": "2025-07-08",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3000,
+      "crs": 518,
+      "tie_breaking": "October 02, 2024 at 1:48:36 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=355"
+    },
+    {
+      "draw_number": "354",
+      "date": "2025-07-07",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 356,
+      "crs": 750,
+      "tie_breaking": "March 19, 2025 at 04:09:09 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=354"
+    },
+    {
+      "draw_number": "353",
+      "date": "2025-06-26",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3000,
+      "crs": 521,
+      "tie_breaking": "November 21, 2024 at 15:56:13 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=353"
+    },
+    {
+      "draw_number": "352",
+      "date": "2025-06-23",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 503,
+      "crs": 742,
+      "tie_breaking": "May 30, 2025 at 21:44:57 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=352"
+    },
+    {
+      "draw_number": "351",
+      "date": "2025-06-12",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3000,
+      "crs": 529,
+      "tie_breaking": "September 28, 2024 at 18:06:46 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=351"
+    },
+    {
+      "draw_number": "350",
+      "date": "2025-06-10",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 125,
+      "crs": 784,
+      "tie_breaking": "September 12, 2024 at 18:12:15 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=350"
+    },
+    {
+      "draw_number": "349",
+      "date": "2025-06-04",
+      "round_type": "Healthcare and social services occupations (Version 2)",
+      "invitations": 500,
+      "crs": 504,
+      "tie_breaking": "March 31, 2025 at 06:47:23 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=349"
+    },
+    {
+      "draw_number": "348",
+      "date": "2025-06-02",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 277,
+      "crs": 726,
+      "tie_breaking": "September 24, 2024 at 15:46:19 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=348"
+    },
+    {
+      "draw_number": "347",
+      "date": "2025-05-13",
+      "round_type": "Canadian Experience Class",
+      "invitations": 500,
+      "crs": 547,
+      "tie_breaking": "May 21, 2024 at 17:26:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=347"
+    },
+    {
+      "draw_number": "346",
+      "date": "2025-05-12",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 511,
+      "crs": 706,
+      "tie_breaking": "March 04, 2025 at 22:35:42 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=346"
+    },
+    {
+      "draw_number": "345",
+      "date": "2025-05-02",
+      "round_type": "Healthcare and social services occupations (Version 2)",
+      "invitations": 500,
+      "crs": 510,
+      "tie_breaking": "July 21, 2024 at 04:31:17 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=345"
+    },
+    {
+      "draw_number": "344",
+      "date": "2025-05-01",
+      "round_type": "Education occupations (Version 1)",
+      "invitations": 1000,
+      "crs": 479,
+      "tie_breaking": "August 10, 2024 at 10:35:55 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=344"
+    },
+    {
+      "draw_number": "343",
+      "date": "2025-04-28",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 421,
+      "crs": 727,
+      "tie_breaking": "September 09, 2024 at 17:11:19 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=343"
+    },
+    {
+      "draw_number": "342",
+      "date": "2025-04-14",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 825,
+      "crs": 764,
+      "tie_breaking": "August 17, 2024 at 18:35:52 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=342"
+    },
+    {
+      "draw_number": "341",
+      "date": "2025-03-21",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 7500,
+      "crs": 379,
+      "tie_breaking": "March 06, 2025 at 02:53:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=341"
+    },
+    {
+      "draw_number": "340",
+      "date": "2025-03-17",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 536,
+      "crs": 736,
+      "tie_breaking": "March 12, 2025 at 14:02:14 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=340"
+    },
+    {
+      "draw_number": "339",
+      "date": "2025-03-06",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 4500,
+      "crs": 410,
+      "tie_breaking": "February 11, 2025 at 07:47:29 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=339"
+    },
+    {
+      "draw_number": "338",
+      "date": "2025-03-03",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 725,
+      "crs": 667,
+      "tie_breaking": "June 05, 2024 at 18:25:22 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=338"
+    },
+    {
+      "draw_number": "337",
+      "date": "2025-02-19",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 6500,
+      "crs": 428,
+      "tie_breaking": "February 10, 2025 at 16:41:38 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=337"
+    },
+    {
+      "draw_number": "336",
+      "date": "2025-02-17",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 646,
+      "crs": 750,
+      "tie_breaking": "July 23, 2024 at 17:41:11 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=336"
+    },
+    {
+      "draw_number": "335",
+      "date": "2025-02-05",
+      "round_type": "Canadian Experience Class",
+      "invitations": 4000,
+      "crs": 521,
+      "tie_breaking": "November 14, 2024 at 02:52:14 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=335"
+    },
+    {
+      "draw_number": "334",
+      "date": "2025-02-04",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 455,
+      "crs": 802,
+      "tie_breaking": "December 07, 2024 at 19:39:25 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=334"
+    },
+    {
+      "draw_number": "333",
+      "date": "2025-01-23",
+      "round_type": "Canadian Experience Class",
+      "invitations": 4000,
+      "crs": 527,
+      "tie_breaking": "July 23, 2024 at 07:06:43 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=333"
+    },
+    {
+      "draw_number": "332",
+      "date": "2025-01-08",
+      "round_type": "Canadian Experience Class",
+      "invitations": 1350,
+      "crs": 542,
+      "tie_breaking": "December 07, 2024 at 01:10:06 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=332"
+    },
+    {
+      "draw_number": "331",
+      "date": "2025-01-07",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 471,
+      "crs": 793,
+      "tie_breaking": "November 25, 2024 at 16:57:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=331"
+    },
+    {
+      "draw_number": "330",
+      "date": "2024-12-16",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1085,
+      "crs": 727,
+      "tie_breaking": "September 18, 2024 at 13:39:10 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=330"
+    },
+    {
+      "draw_number": "329",
+      "date": "2024-12-03",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 800,
+      "crs": 466,
+      "tie_breaking": "November 26, 2024 at 02:44:59 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=329"
+    },
+    {
+      "draw_number": "328",
+      "date": "2024-12-02",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 676,
+      "crs": 705,
+      "tie_breaking": "November 27, 2024 at 18:15:17 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=328"
+    },
+    {
+      "draw_number": "327",
+      "date": "2024-11-20",
+      "round_type": "Healthcare occupations (Version 1)",
+      "invitations": 3000,
+      "crs": 463,
+      "tie_breaking": "October 21, 2024 at 16:12:39 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=327"
+    },
+    {
+      "draw_number": "326",
+      "date": "2024-11-19",
+      "round_type": "Canadian Experience Class",
+      "invitations": 400,
+      "crs": 539,
+      "tie_breaking": "July 08, 2024 at 01:41:37 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=326"
+    },
+    {
+      "draw_number": "325",
+      "date": "2024-11-18",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 174,
+      "crs": 816,
+      "tie_breaking": "August 28, 2024 at 05:12:34 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=325"
+    },
+    {
+      "draw_number": "324",
+      "date": "2024-11-15",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 800,
+      "crs": 478,
+      "tie_breaking": "November 07, 2024 at 13:12:03 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=324"
+    },
+    {
+      "draw_number": "323",
+      "date": "2024-11-13",
+      "round_type": "Canadian Experience Class",
+      "invitations": 400,
+      "crs": 547,
+      "tie_breaking": "April 10, 2024 at 03:58:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=323"
+    },
+    {
+      "draw_number": "322",
+      "date": "2024-11-12",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 733,
+      "crs": 812,
+      "tie_breaking": "March 02. 2024 at 01:58:34 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=322"
+    },
+    {
+      "draw_number": "321",
+      "date": "2024-10-23",
+      "round_type": "Trade occupations (Version 1)",
+      "invitations": 1800,
+      "crs": 433,
+      "tie_breaking": "March 12, 2024 at 14:30:36 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=321"
+    },
+    {
+      "draw_number": "320",
+      "date": "2024-10-22",
+      "round_type": "Canadian Experience Class",
+      "invitations": 400,
+      "crs": 539,
+      "tie_breaking": "October 19, 2024 at 21:53:18 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=320"
+    },
+    {
+      "draw_number": "319",
+      "date": "2024-10-21",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 648,
+      "crs": 791,
+      "tie_breaking": "August 13, 2024 at 20:04:52 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=319"
+    },
+    {
+      "draw_number": "318",
+      "date": "2024-10-10",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 1000,
+      "crs": 444,
+      "tie_breaking": "September 27, 2024 at 18:56:32 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=318"
+    },
+    {
+      "draw_number": "317",
+      "date": "2024-10-09",
+      "round_type": "Canadian Experience Class",
+      "invitations": 500,
+      "crs": 539,
+      "tie_breaking": "February 20, 2024 at 02:57:40 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=317"
+    },
+    {
+      "draw_number": "316",
+      "date": "2024-10-07",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1613,
+      "crs": 743,
+      "tie_breaking": "March 22, 2024 at 18:36:54 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=316"
+    },
+    {
+      "draw_number": "315",
+      "date": "2024-09-19",
+      "round_type": "Canadian Experience Class",
+      "invitations": 4000,
+      "crs": 509,
+      "tie_breaking": "November 06, 2023 at 20:17:35 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=315"
+    },
+    {
+      "draw_number": "314",
+      "date": "2024-09-13",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 1000,
+      "crs": 446,
+      "tie_breaking": "August 28, 2024 at 17:07:19 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=314"
+    },
+    {
+      "draw_number": "313",
+      "date": "2024-09-09",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 911,
+      "crs": 732,
+      "tie_breaking": "March 13, 2024 at 19:56:16 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=313"
+    },
+    {
+      "draw_number": "312",
+      "date": "2024-08-27",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3300,
+      "crs": 507,
+      "tie_breaking": "April 17, 2024 at 20:11:20 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=312"
+    },
+    {
+      "draw_number": "311",
+      "date": "2024-08-26",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1121,
+      "crs": 694,
+      "tie_breaking": "August 03, 2024 at 18:54:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=311"
+    },
+    {
+      "draw_number": "310",
+      "date": "2024-08-15",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 2000,
+      "crs": 394,
+      "tie_breaking": "July 07, 2024 at 09:46:10 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=310"
+    },
+    {
+      "draw_number": "309",
+      "date": "2024-08-14",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3200,
+      "crs": 509,
+      "tie_breaking": "March 01, 2024 at 19:23:21 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=309"
+    },
+    {
+      "draw_number": "308",
+      "date": "2024-08-13",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 763,
+      "crs": 690,
+      "tie_breaking": "April 26, 2024 at 10:59:30 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=308"
+    },
+    {
+      "draw_number": "307",
+      "date": "2024-07-31",
+      "round_type": "Canadian Experience Class",
+      "invitations": 5000,
+      "crs": 510,
+      "tie_breaking": "June 30, 2024 at 20:39:14 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=307"
+    },
+    {
+      "draw_number": "306",
+      "date": "2024-07-30",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 964,
+      "crs": 686,
+      "tie_breaking": "May 27, 2024 at 07:07:21 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=306"
+    },
+    {
+      "draw_number": "305",
+      "date": "2024-07-18",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 1800,
+      "crs": 400,
+      "tie_breaking": "March 08, 2024 at 19:51:40 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=305"
+    },
+    {
+      "draw_number": "304",
+      "date": "2024-07-17",
+      "round_type": "Canadian Experience Class",
+      "invitations": 6300,
+      "crs": 515,
+      "tie_breaking": "February 03, 2024 at 13:01:06 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=304"
+    },
+    {
+      "draw_number": "303",
+      "date": "2024-07-16",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1391,
+      "crs": 670,
+      "tie_breaking": "May 04, 2024 at 13:27:31 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=303"
+    },
+    {
+      "draw_number": "302",
+      "date": "2024-07-08",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 3200,
+      "crs": 420,
+      "tie_breaking": "May 30, 2024 at 03:37:43 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=302"
+    },
+    {
+      "draw_number": "301",
+      "date": "2024-07-05",
+      "round_type": "Healthcare occupations (Version 1)",
+      "invitations": 3750,
+      "crs": 445,
+      "tie_breaking": "May 07, 2024 at 21:27:04 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=301"
+    },
+    {
+      "draw_number": "300",
+      "date": "2024-07-04",
+      "round_type": "Trade occupations (Version 1)",
+      "invitations": 1800,
+      "crs": 436,
+      "tie_breaking": "July 16, 2023 at 15:44:59 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=300"
+    },
+    {
+      "draw_number": "299",
+      "date": "2024-07-02",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 920,
+      "crs": 739,
+      "tie_breaking": "February 02, 2024 at 11:38:43 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=299"
+    },
+    {
+      "draw_number": "298",
+      "date": "2024-06-19",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1499,
+      "crs": 663,
+      "tie_breaking": "January 19, 2024 at 10:10:40 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=298"
+    },
+    {
+      "draw_number": "297",
+      "date": "2024-05-31",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3000,
+      "crs": 522,
+      "tie_breaking": "March 19, 2024 at 18:58:58 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=297"
+    },
+    {
+      "draw_number": "296",
+      "date": "2024-05-30",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 2985,
+      "crs": 676,
+      "tie_breaking": "January 19, 2024 at 18:32:21 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=296"
+    },
+    {
+      "draw_number": "295",
+      "date": "2024-04-24",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 1400,
+      "crs": 410,
+      "tie_breaking": "April 07, 2024 at 02:06:46 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=295"
+    },
+    {
+      "draw_number": "294",
+      "date": "2024-04-23",
+      "round_type": "General",
+      "invitations": 2095,
+      "crs": 529,
+      "tie_breaking": "November 08, 2023 at 17:50:29 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=294"
+    },
+    {
+      "draw_number": "293",
+      "date": "2024-04-11",
+      "round_type": "STEM occupations (Version 1)",
+      "invitations": 4500,
+      "crs": 491,
+      "tie_breaking": "February 25, 2024 at 11:55:12 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=293"
+    },
+    {
+      "draw_number": "292",
+      "date": "2024-04-10",
+      "round_type": "General",
+      "invitations": 1280,
+      "crs": 549,
+      "tie_breaking": "March 21, 2024 at 03:37:24 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=292"
+    },
+    {
+      "draw_number": "291",
+      "date": "2024-03-26",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 1500,
+      "crs": 388,
+      "tie_breaking": "March 10, 2024 at 20:06:26 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=291"
+    },
+    {
+      "draw_number": "290",
+      "date": "2024-03-25",
+      "round_type": "General",
+      "invitations": 1980,
+      "crs": 524,
+      "tie_breaking": "February 25, 2024 at 14:42:38 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=290"
+    },
+    {
+      "draw_number": "289",
+      "date": "2024-03-13",
+      "round_type": "Transport occupations (Version 1)",
+      "invitations": 975,
+      "crs": 430,
+      "tie_breaking": "July 31, 2023 at 13:27:26 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=289"
+    },
+    {
+      "draw_number": "288",
+      "date": "2024-03-12",
+      "round_type": "General",
+      "invitations": 2850,
+      "crs": 525,
+      "tie_breaking": "November 01, 2023 at 17:08:51 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=288"
+    },
+    {
+      "draw_number": "287",
+      "date": "2024-02-29",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 2500,
+      "crs": 336,
+      "tie_breaking": "January 18, 2024 at 09:15:46 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=287"
+    },
+    {
+      "draw_number": "286",
+      "date": "2024-02-28",
+      "round_type": "General",
+      "invitations": 1470,
+      "crs": 534,
+      "tie_breaking": "January 16, 2024 at 03:51:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=286"
+    },
+    {
+      "draw_number": "285",
+      "date": "2024-02-16",
+      "round_type": "Agriculture and agri-food occupations (Version 1)",
+      "invitations": 150,
+      "crs": 437,
+      "tie_breaking": "January 29, 2024 at 03:32:58 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=285"
+    },
+    {
+      "draw_number": "284",
+      "date": "2024-02-14",
+      "round_type": "Healthcare occupations (Version 1)",
+      "invitations": 3500,
+      "crs": 422,
+      "tie_breaking": "January 30, 2024 at 02:39:54 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=284"
+    },
+    {
+      "draw_number": "283",
+      "date": "2024-02-13",
+      "round_type": "General",
+      "invitations": 1490,
+      "crs": 535,
+      "tie_breaking": "February 11, 2024 at 15:26:56 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=283"
+    },
+    {
+      "draw_number": "282",
+      "date": "2024-02-01",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 7000,
+      "crs": 365,
+      "tie_breaking": "September 08, 2023 at 09:47:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=282"
+    },
+    {
+      "draw_number": "281",
+      "date": "2024-01-31",
+      "round_type": "General",
+      "invitations": 730,
+      "crs": 541,
+      "tie_breaking": "July 15, 2023 at 10:52:08 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=281"
+    },
+    {
+      "draw_number": "280",
+      "date": "2024-01-23",
+      "round_type": "General",
+      "invitations": 1040,
+      "crs": 543,
+      "tie_breaking": "January 21, 2024 at 07:43:47 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=280"
+    },
+    {
+      "draw_number": "279",
+      "date": "2024-01-10",
+      "round_type": "General",
+      "invitations": 1510,
+      "crs": 546,
+      "tie_breaking": "December 31, 2023 at 18:23:22 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=279"
+    },
+    {
+      "draw_number": "278",
+      "date": "2023-12-21",
+      "round_type": "Agriculture and agri-food occupations (Version 1)",
+      "invitations": 400,
+      "crs": 386,
+      "tie_breaking": "July 06, 2023 at 05:44:14 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=278"
+    },
+    {
+      "draw_number": "277",
+      "date": "2023-12-20",
+      "round_type": "Transport occupations (Version 1)",
+      "invitations": 670,
+      "crs": 435,
+      "tie_breaking": "August 30. 2023 at 17:30:21 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=277"
+    },
+    {
+      "draw_number": "276",
+      "date": "2023-12-19",
+      "round_type": "Trade occupations (Version 1)",
+      "invitations": 1000,
+      "crs": 425,
+      "tie_breaking": "November 04, 2023 at 11:16:58 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=276"
+    },
+    {
+      "draw_number": "275",
+      "date": "2023-12-18",
+      "round_type": "General",
+      "invitations": 1325,
+      "crs": 542,
+      "tie_breaking": "November 06, 2023 at 14:40:23 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=275"
+    },
+    {
+      "draw_number": "274",
+      "date": "2023-12-08",
+      "round_type": "STEM occupations (Version 1)",
+      "invitations": 5900,
+      "crs": 481,
+      "tie_breaking": "September 07, 2023 at 09:24:49 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=274"
+    },
+    {
+      "draw_number": "273",
+      "date": "2023-12-07",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 1000,
+      "crs": 470,
+      "tie_breaking": "October 03, 2023 at 04:45:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=273"
+    },
+    {
+      "draw_number": "272",
+      "date": "2023-12-06",
+      "round_type": "General",
+      "invitations": 4750,
+      "crs": 561,
+      "tie_breaking": "November 08, 2023 at 06:00:13 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=272"
+    },
+    {
+      "draw_number": "271",
+      "date": "2023-10-26",
+      "round_type": "Healthcare occupations (Version 1)",
+      "invitations": 3600,
+      "crs": 431,
+      "tie_breaking": "May 24, 2023 at 19:47:51 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=271"
+    },
+    {
+      "draw_number": "270",
+      "date": "2023-10-25",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 300,
+      "crs": 486,
+      "tie_breaking": "September 30, 2023 at 04:22:17 AM UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=270"
+    },
+    {
+      "draw_number": "269",
+      "date": "2023-10-24",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1548,
+      "crs": 776,
+      "tie_breaking": "July 07, 2023 at 07:28:57 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=269"
+    },
+    {
+      "draw_number": "268",
+      "date": "2023-10-10",
+      "round_type": "No Program Specified",
+      "invitations": 3725,
+      "crs": 500,
+      "tie_breaking": "October 02, 2023 at 15:25:30 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=268"
+    },
+    {
+      "draw_number": "267",
+      "date": "2023-09-28",
+      "round_type": "Agriculture and agri-food occupations (Version 1)",
+      "invitations": 600,
+      "crs": 354,
+      "tie_breaking": "June 12, 2023 at 10:23:21 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=267"
+    },
+    {
+      "draw_number": "266",
+      "date": "2023-09-27",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 500,
+      "crs": 472,
+      "tie_breaking": "August 16, 2023 at 09:00:14 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=266"
+    },
+    {
+      "draw_number": "265",
+      "date": "2023-09-26",
+      "round_type": "No Program Specified",
+      "invitations": 3000,
+      "crs": 504,
+      "tie_breaking": "September 11, 2023 at 20:24:18 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=265"
+    },
+    {
+      "draw_number": "264",
+      "date": "2023-09-20",
+      "round_type": "Transport occupations (Version 1)",
+      "invitations": 1000,
+      "crs": 435,
+      "tie_breaking": "June 17, 2023 at 06:44:01 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=264"
+    },
+    {
+      "draw_number": "263",
+      "date": "2023-09-19",
+      "round_type": "No Program Specified",
+      "invitations": 3200,
+      "crs": 531,
+      "tie_breaking": "September 12, 2023 at 12:16:31 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=263"
+    },
+    {
+      "draw_number": "262",
+      "date": "2023-08-15",
+      "round_type": "No Program Specified",
+      "invitations": 4300,
+      "crs": 496,
+      "tie_breaking": "July 04, 2023 at 19:36:18 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=262"
+    },
+    {
+      "draw_number": "261",
+      "date": "2023-08-03",
+      "round_type": "Trade occupations (Version 1)",
+      "invitations": 1500,
+      "crs": 388,
+      "tie_breaking": "June 07, 2023 at 07:03:08 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=261"
+    },
+    {
+      "draw_number": "260",
+      "date": "2023-08-02",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 800,
+      "crs": 435,
+      "tie_breaking": "July 31, 2023 at 09:57:30 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=260"
+    },
+    {
+      "draw_number": "259",
+      "date": "2023-08-01",
+      "round_type": "No Program Specified",
+      "invitations": 2000,
+      "crs": 517,
+      "tie_breaking": "June 30, 2023 at 11:45:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=259"
+    },
+    {
+      "draw_number": "258",
+      "date": "2023-07-12",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 3800,
+      "crs": 375,
+      "tie_breaking": "June 15, 2023 at 23:49:05",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=258"
+    },
+    {
+      "draw_number": "257",
+      "date": "2023-07-11",
+      "round_type": "No Program Specified",
+      "invitations": 800,
+      "crs": 505,
+      "tie_breaking": "October 01, 2022 at 06:13:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=257"
+    },
+    {
+      "draw_number": "256",
+      "date": "2023-07-07",
+      "round_type": "French language proficiency (Version 1)",
+      "invitations": 2300,
+      "crs": 439,
+      "tie_breaking": "January 20, 2023 at 17:18:32 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=256"
+    },
+    {
+      "draw_number": "255",
+      "date": "2023-07-06",
+      "round_type": "Healthcare occupations (Version 1)",
+      "invitations": 1500,
+      "crs": 463,
+      "tie_breaking": "June 19, 2023 06:41:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=255"
+    },
+    {
+      "draw_number": "254",
+      "date": "2023-07-05",
+      "round_type": "STEM occupations (Version 1)",
+      "invitations": 500,
+      "crs": 486,
+      "tie_breaking": "November 23, 2022 00:01:29 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=254"
+    },
+    {
+      "draw_number": "253",
+      "date": "2023-07-04",
+      "round_type": "No Program Specified",
+      "invitations": 700,
+      "crs": 511,
+      "tie_breaking": "July 01, 2023 09:31:32 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=253"
+    },
+    {
+      "draw_number": "252",
+      "date": "2023-06-28",
+      "round_type": "Healthcare occupations (Version 1)",
+      "invitations": 500,
+      "crs": 476,
+      "tie_breaking": "November 12, 2022 12:47:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=252"
+    },
+    {
+      "draw_number": "251",
+      "date": "2023-06-27",
+      "round_type": "No Program Specified",
+      "invitations": 4300,
+      "crs": 486,
+      "tie_breaking": "June 21, 2023 00:57:04 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=251"
+    },
+    {
+      "draw_number": "250",
+      "date": "2023-06-08",
+      "round_type": "No Program Specified",
+      "invitations": 4800,
+      "crs": 486,
+      "tie_breaking": "May 19, 2023 14:04:00 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=250"
+    },
+    {
+      "draw_number": "249",
+      "date": "2023-05-24",
+      "round_type": "No Program Specified",
+      "invitations": 4800,
+      "crs": 488,
+      "tie_breaking": "December 26, 2022 01:12:48 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=249"
+    },
+    {
+      "draw_number": "248",
+      "date": "2023-05-10",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 589,
+      "crs": 691,
+      "tie_breaking": "March 08, 2023 at 16:42:17 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=248"
+    },
+    {
+      "draw_number": "247",
+      "date": "2023-04-26",
+      "round_type": "No Program Specified",
+      "invitations": 3500,
+      "crs": 483,
+      "tie_breaking": "April 22, 2023 19:46:58 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=247"
+    },
+    {
+      "draw_number": "246",
+      "date": "2023-04-12",
+      "round_type": "No Program Specified",
+      "invitations": 3500,
+      "crs": 486,
+      "tie_breaking": "July 19, 2022 11:05:24 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=246"
+    },
+    {
+      "draw_number": "245",
+      "date": "2023-03-29",
+      "round_type": "No Program Specified",
+      "invitations": 7000,
+      "crs": 481,
+      "tie_breaking": "February 14, 2023 07:35:00 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=245"
+    },
+    {
+      "draw_number": "244",
+      "date": "2023-03-23",
+      "round_type": "No Program Specified",
+      "invitations": 7000,
+      "crs": 484,
+      "tie_breaking": "May 19,2022 06:48:41 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=244"
+    },
+    {
+      "draw_number": "243",
+      "date": "2023-03-15",
+      "round_type": "No Program Specified",
+      "invitations": 7000,
+      "crs": 490,
+      "tie_breaking": "February 16, 2023 10:33:06 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=243"
+    },
+    {
+      "draw_number": "242",
+      "date": "2023-03-01",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 667,
+      "crs": 748,
+      "tie_breaking": "December 12, 2022, at 10:48:12 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=242"
+    },
+    {
+      "draw_number": "241",
+      "date": "2023-02-15",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 699,
+      "crs": 791,
+      "tie_breaking": "February 08, 2023, at 18:09:01 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=241"
+    },
+    {
+      "draw_number": "240",
+      "date": "2023-02-02",
+      "round_type": "Federal Skilled Worker",
+      "invitations": 3300,
+      "crs": 489,
+      "tie_breaking": "March 29, 2022, at 16:09:00 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=240"
+    },
+    {
+      "draw_number": "239",
+      "date": "2023-02-01",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 893,
+      "crs": 733,
+      "tie_breaking": "December 09, 2022, at 10:49:57 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=239"
+    },
+    {
+      "draw_number": "238",
+      "date": "2023-01-18",
+      "round_type": "No Program Specified",
+      "invitations": 5500,
+      "crs": 490,
+      "tie_breaking": "November 24, 2022 21:14:59 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=238"
+    },
+    {
+      "draw_number": "237",
+      "date": "2023-01-11",
+      "round_type": "No Program Specified",
+      "invitations": 5500,
+      "crs": 507,
+      "tie_breaking": "December 06, 2022 11:00:07 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=237"
+    },
+    {
+      "draw_number": "236",
+      "date": "2022-11-23",
+      "round_type": "No Program Specified",
+      "invitations": 4750,
+      "crs": 491,
+      "tie_breaking": "October 13, 2022 11:22:17 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=236"
+    },
+    {
+      "draw_number": "235",
+      "date": "2022-11-09",
+      "round_type": "No Program Specified",
+      "invitations": 4750,
+      "crs": 494,
+      "tie_breaking": "June 06, 2022 20:48:23 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=235"
+    },
+    {
+      "draw_number": "234",
+      "date": "2022-10-26",
+      "round_type": "No Program Specified",
+      "invitations": 4750,
+      "crs": 496,
+      "tie_breaking": "May 09, 2022 09:04:20 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=234"
+    },
+    {
+      "draw_number": "233",
+      "date": "2022-10-12",
+      "round_type": "No Program Specified",
+      "invitations": 4250,
+      "crs": 500,
+      "tie_breaking": "October 10, 2022 17:10:53 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=233"
+    },
+    {
+      "draw_number": "232",
+      "date": "2022-09-28",
+      "round_type": "No Program Specified",
+      "invitations": 3750,
+      "crs": 504,
+      "tie_breaking": "May 02, 2022 at 17:17:32 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=232"
+    },
+    {
+      "draw_number": "231",
+      "date": "2022-09-14",
+      "round_type": "No Program Specified",
+      "invitations": 3250,
+      "crs": 510,
+      "tie_breaking": "January 08, 2022 at 10:24:52 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=231"
+    },
+    {
+      "draw_number": "230",
+      "date": "2022-08-31",
+      "round_type": "No Program Specified",
+      "invitations": 2750,
+      "crs": 516,
+      "tie_breaking": "April 16, 2022 at 18:24:41 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=230"
+    },
+    {
+      "draw_number": "229",
+      "date": "2022-08-17",
+      "round_type": "No Program Specified",
+      "invitations": 2250,
+      "crs": 525,
+      "tie_breaking": "December 28, 2021 at 11:03:15 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=229"
+    },
+    {
+      "draw_number": "228",
+      "date": "2022-08-03",
+      "round_type": "No Program Specified",
+      "invitations": 2000,
+      "crs": 533,
+      "tie_breaking": "January 06, 2022 at 14:29:50 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=228"
+    },
+    {
+      "draw_number": "227",
+      "date": "2022-07-20",
+      "round_type": "No Program Specified",
+      "invitations": 1750,
+      "crs": 542,
+      "tie_breaking": "December 30, 2021 at 15:29:35 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=227"
+    },
+    {
+      "draw_number": "226",
+      "date": "2022-07-06",
+      "round_type": "No Program Specified",
+      "invitations": 1500,
+      "crs": 557,
+      "tie_breaking": "November 13, 2021 at 02:20:46 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=226"
+    },
+    {
+      "draw_number": "225",
+      "date": "2022-06-22",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 636,
+      "crs": 752,
+      "tie_breaking": "April 19, 2022 at 13:45:45 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=225"
+    },
+    {
+      "draw_number": "224",
+      "date": "2022-06-08",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 932,
+      "crs": 796,
+      "tie_breaking": "October 18, 2021 at 17:13:17 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=224"
+    },
+    {
+      "draw_number": "223",
+      "date": "2022-05-25",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 590,
+      "crs": 741,
+      "tie_breaking": "February 02, 2022 at 12:29:53 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=223"
+    },
+    {
+      "draw_number": "222",
+      "date": "2022-05-11",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 545,
+      "crs": 753,
+      "tie_breaking": "December 15, 2021 at 20:32:57 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=222"
+    },
+    {
+      "draw_number": "221",
+      "date": "2022-04-27",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 829,
+      "crs": 772,
+      "tie_breaking": "March 24, 2022 at 8:00:50 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=221"
+    },
+    {
+      "draw_number": "220",
+      "date": "2022-04-13",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 787,
+      "crs": 782,
+      "tie_breaking": "April 07, 2022 at 16:31:21 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=220"
+    },
+    {
+      "draw_number": "219",
+      "date": "2022-03-30",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 919,
+      "crs": 785,
+      "tie_breaking": "November 15, 2021 at 20:23:16 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=219"
+    },
+    {
+      "draw_number": "218",
+      "date": "2022-03-16",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 924,
+      "crs": 754,
+      "tie_breaking": "February 10, 2022 at 14:35:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=218"
+    },
+    {
+      "draw_number": "217",
+      "date": "2022-03-02",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1047,
+      "crs": 761,
+      "tie_breaking": "January 05, 2022 at 14:22:03 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=217"
+    },
+    {
+      "draw_number": "216",
+      "date": "2022-02-16",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1082,
+      "crs": 710,
+      "tie_breaking": "October 07, 2021 at 11:36:55 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=216"
+    },
+    {
+      "draw_number": "215",
+      "date": "2022-02-02",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1070,
+      "crs": 674,
+      "tie_breaking": "February 18 2021 at 05:05:15 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=215"
+    },
+    {
+      "draw_number": "214",
+      "date": "2022-01-19",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1036,
+      "crs": 745,
+      "tie_breaking": "July 05, 2021 at 13:12:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=214"
+    },
+    {
+      "draw_number": "213",
+      "date": "2022-01-05",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 392,
+      "crs": 808,
+      "tie_breaking": "March 04, 2021 at 16:57:50 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=213"
+    },
+    {
+      "draw_number": "212",
+      "date": "2021-12-22",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 746,
+      "crs": 720,
+      "tie_breaking": "November 24, 2021 at 16:56:42 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=212"
+    },
+    {
+      "draw_number": "211",
+      "date": "2021-12-10",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1032,
+      "crs": 698,
+      "tie_breaking": "September 10, 2021 at 16:43:17 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=211"
+    },
+    {
+      "draw_number": "210",
+      "date": "2021-11-24",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 613,
+      "crs": 737,
+      "tie_breaking": "June 22, 2021 at 20:19:59 PM UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=210"
+    },
+    {
+      "draw_number": "209",
+      "date": "2021-11-10",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 775,
+      "crs": 685,
+      "tie_breaking": "August 12, 2021 at 20:05:46 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=209"
+    },
+    {
+      "draw_number": "208",
+      "date": "2021-10-27",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 681,
+      "crs": 744,
+      "tie_breaking": "October 7 at 16:38:21 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=208"
+    },
+    {
+      "draw_number": "207",
+      "date": "2021-10-13",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 681,
+      "crs": 720,
+      "tie_breaking": "March 16, 2021 at 07:53:28 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=207"
+    },
+    {
+      "draw_number": "206",
+      "date": "2021-09-29",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 761,
+      "crs": 742,
+      "tie_breaking": "July 29, 2021 at 09:45:29 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=206"
+    },
+    {
+      "draw_number": "205",
+      "date": "2021-09-15",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 521,
+      "crs": 732,
+      "tie_breaking": "February 24, 2021 at 10:46:54 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=205"
+    },
+    {
+      "draw_number": "204",
+      "date": "2021-09-14",
+      "round_type": "Canadian Experience Class",
+      "invitations": 2000,
+      "crs": 462,
+      "tie_breaking": "September 11, 2021 at 10:55:43 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=204"
+    },
+    {
+      "draw_number": "203",
+      "date": "2021-09-01",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 635,
+      "crs": 764,
+      "tie_breaking": "April 12, 2021 at 12:21:45 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=203"
+    },
+    {
+      "draw_number": "202",
+      "date": "2021-08-19",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3000,
+      "crs": 403,
+      "tie_breaking": "August 01, 2021 at 10:13:57 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=202"
+    },
+    {
+      "draw_number": "201",
+      "date": "2021-08-18",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 463,
+      "crs": 751,
+      "tie_breaking": "April 13, 2021 at 16:29:29 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=201"
+    },
+    {
+      "draw_number": "200",
+      "date": "2021-08-05",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3000,
+      "crs": 404,
+      "tie_breaking": "August 3, 2021 at 05:39:26 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=200"
+    },
+    {
+      "draw_number": "199",
+      "date": "2021-08-04",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 512,
+      "crs": 760,
+      "tie_breaking": "March 5, 2021 at 22:38:31 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=199"
+    },
+    {
+      "draw_number": "198",
+      "date": "2021-07-22",
+      "round_type": "Canadian Experience Class",
+      "invitations": 4500,
+      "crs": 357,
+      "tie_breaking": "February 14, 2021 at 09:04:15 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=198"
+    },
+    {
+      "draw_number": "197",
+      "date": "2021-07-21",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 462,
+      "crs": 734,
+      "tie_breaking": "April 11, 2021 at 10:56:32 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=197"
+    },
+    {
+      "draw_number": "196",
+      "date": "2021-07-08",
+      "round_type": "Canadian Experience Class",
+      "invitations": 4500,
+      "crs": 369,
+      "tie_breaking": "June 10, 2021 at 22:46:37 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=196"
+    },
+    {
+      "draw_number": "195",
+      "date": "2021-07-07",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 627,
+      "crs": 760,
+      "tie_breaking": "June 14, 2021 at 07:44:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=195"
+    },
+    {
+      "draw_number": "194",
+      "date": "2021-06-24",
+      "round_type": "Canadian Experience Class",
+      "invitations": 6000,
+      "crs": 357,
+      "tie_breaking": "February 17, 2021 at 10:15:50 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=194"
+    },
+    {
+      "draw_number": "193",
+      "date": "2021-06-23",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 1002,
+      "crs": 742,
+      "tie_breaking": "February 18, 2021 at 04:04:56 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=193"
+    },
+    {
+      "draw_number": "192",
+      "date": "2021-06-10",
+      "round_type": "Canadian Experience Class",
+      "invitations": 6000,
+      "crs": 368,
+      "tie_breaking": "April 28, 2021 at 05:45:14 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=192"
+    },
+    {
+      "draw_number": "191",
+      "date": "2021-06-09",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 940,
+      "crs": 711,
+      "tie_breaking": "February 16, 2021 at 09:06:30 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=191"
+    },
+    {
+      "draw_number": "190",
+      "date": "2021-05-31",
+      "round_type": "Canadian Experience Class",
+      "invitations": 5956,
+      "crs": 380,
+      "tie_breaking": "May 28, 2021 at 14:45:22 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=190"
+    },
+    {
+      "draw_number": "189",
+      "date": "2021-05-26",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 500,
+      "crs": 713,
+      "tie_breaking": "April 06, 2021 at 09:50:14 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=189"
+    },
+    {
+      "draw_number": "188",
+      "date": "2021-05-20",
+      "round_type": "Canadian Experience Class",
+      "invitations": 1842,
+      "crs": 397,
+      "tie_breaking": "April 24, 2021 at 12:09:24 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=188"
+    },
+    {
+      "draw_number": "187",
+      "date": "2021-05-13",
+      "round_type": "Canadian Experience Class",
+      "invitations": 4147,
+      "crs": 401,
+      "tie_breaking": "April 29, 2021 at 11:48:14 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=187"
+    },
+    {
+      "draw_number": "186",
+      "date": "2021-05-12",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 557,
+      "crs": 752,
+      "tie_breaking": "April 29, 2021 at 10:18:12 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=186"
+    },
+    {
+      "draw_number": "185",
+      "date": "2021-04-29",
+      "round_type": "Canadian Experience Class",
+      "invitations": 6000,
+      "crs": 400,
+      "tie_breaking": "April 24, 2021 at 15:24:49 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=185"
+    },
+    {
+      "draw_number": "184",
+      "date": "2021-04-28",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 381,
+      "crs": 717,
+      "tie_breaking": "March 16, 2021 at 21:20:50 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=184"
+    },
+    {
+      "draw_number": "183",
+      "date": "2021-04-16",
+      "round_type": "Canadian Experience Class",
+      "invitations": 6000,
+      "crs": 417,
+      "tie_breaking": "March 01, 2021 at 19:53:46 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=183"
+    },
+    {
+      "draw_number": "182",
+      "date": "2021-04-14",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 266,
+      "crs": 753,
+      "tie_breaking": "March 01, 2021 at 15:22:18 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=182"
+    },
+    {
+      "draw_number": "181",
+      "date": "2021-04-01",
+      "round_type": "Canadian Experience Class",
+      "invitations": 5000,
+      "crs": 432,
+      "tie_breaking": "February 16, 2021 at 09:51:22 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=181"
+    },
+    {
+      "draw_number": "180",
+      "date": "2021-03-31",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 284,
+      "crs": 778,
+      "tie_breaking": "March 16, 2021 at 16:09:32 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=180"
+    },
+    {
+      "draw_number": "179",
+      "date": "2021-03-18",
+      "round_type": "Canadian Experience Class",
+      "invitations": 5000,
+      "crs": 449,
+      "tie_breaking": "February 19, 2021 at 15:59:57 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=179"
+    },
+    {
+      "draw_number": "178",
+      "date": "2021-03-17",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 183,
+      "crs": 682,
+      "tie_breaking": "March 04, 2021 at 16:56:20 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=178"
+    },
+    {
+      "draw_number": "177",
+      "date": "2021-03-08",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 671,
+      "crs": 739,
+      "tie_breaking": "February 16, 2021 at 19:10:25 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=177"
+    },
+    {
+      "draw_number": "176",
+      "date": "2021-02-13",
+      "round_type": "Canadian Experience Class",
+      "invitations": 27332,
+      "crs": 75,
+      "tie_breaking": "September 12, 2020 at 15:31:40 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=176"
+    },
+    {
+      "draw_number": "175",
+      "date": "2021-02-10",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 654,
+      "crs": 720,
+      "tie_breaking": "August 14, 2020 at 06:51:00 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=175"
+    },
+    {
+      "draw_number": "174",
+      "date": "2021-01-21",
+      "round_type": "Canadian Experience Class",
+      "invitations": 4626,
+      "crs": 454,
+      "tie_breaking": "July 23, 2020 at 17:32:00 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=174"
+    },
+    {
+      "draw_number": "173",
+      "date": "2021-01-20",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 374,
+      "crs": 741,
+      "tie_breaking": "September 5, 2020 at 19:39:04 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=173"
+    },
+    {
+      "draw_number": "172",
+      "date": "2021-01-07",
+      "round_type": "Canadian Experience Class",
+      "invitations": 4750,
+      "crs": 461,
+      "tie_breaking": "September 12, 2020 at 20:46:32 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=172"
+    },
+    {
+      "draw_number": "171",
+      "date": "2021-01-06",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 250,
+      "crs": 813,
+      "tie_breaking": "November 2, 2020 at 11:11:52 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=171"
+    },
+    {
+      "draw_number": "170",
+      "date": "2020-12-23",
+      "round_type": "No Program Specified",
+      "invitations": 5000,
+      "crs": 468,
+      "tie_breaking": "June 4, 2020 at 13:39:44 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=170"
+    },
+    {
+      "draw_number": "169",
+      "date": "2020-12-09",
+      "round_type": "No Program Specified",
+      "invitations": 5000,
+      "crs": 469,
+      "tie_breaking": "June 4, 2020 at 22:26:05 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=169"
+    },
+    {
+      "draw_number": "168",
+      "date": "2020-11-25",
+      "round_type": "No Program Specified",
+      "invitations": 5000,
+      "crs": 469,
+      "tie_breaking": "October 15, 2020 at 08:50:10 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=168"
+    },
+    {
+      "draw_number": "167",
+      "date": "2020-11-18",
+      "round_type": "No Program Specified",
+      "invitations": 5000,
+      "crs": 472,
+      "tie_breaking": "October 27, 2020 at 06:18:11 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=167"
+    },
+    {
+      "draw_number": "166",
+      "date": "2020-11-05",
+      "round_type": "No Program Specified",
+      "invitations": 4500,
+      "crs": 478,
+      "tie_breaking": "October 26, 2020 at 22:44:19 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=166"
+    },
+    {
+      "draw_number": "165",
+      "date": "2020-10-14",
+      "round_type": "No Program Specified",
+      "invitations": 4500,
+      "crs": 471,
+      "tie_breaking": "September 1, 2020 at 12:11:23 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=165"
+    },
+    {
+      "draw_number": "164",
+      "date": "2020-09-30",
+      "round_type": "No Program Specified",
+      "invitations": 4200,
+      "crs": 471,
+      "tie_breaking": "March 2, 2020 at 12:47:08 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=164"
+    },
+    {
+      "draw_number": "163",
+      "date": "2020-09-16",
+      "round_type": "No Program Specified",
+      "invitations": 4200,
+      "crs": 472,
+      "tie_breaking": "March 09, 2020 at 13:03:40 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=163"
+    },
+    {
+      "draw_number": "162",
+      "date": "2020-09-02",
+      "round_type": "No Program Specified",
+      "invitations": 4200,
+      "crs": 475,
+      "tie_breaking": "August 16, 2020 at 01:22:18 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=162"
+    },
+    {
+      "draw_number": "161",
+      "date": "2020-08-20",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3300,
+      "crs": 454,
+      "tie_breaking": "July 27, 2020 at 17:05:11 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=161"
+    },
+    {
+      "draw_number": "160",
+      "date": "2020-08-19",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 600,
+      "crs": 771,
+      "tie_breaking": "July 24, 2020 at 11:39:23 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=160"
+    },
+    {
+      "draw_number": "159",
+      "date": "2020-08-06",
+      "round_type": "Federal Skilled Trades",
+      "invitations": 250,
+      "crs": 415,
+      "tie_breaking": "June 2, 2020 at 09:35:31 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=159"
+    },
+    {
+      "draw_number": "158",
+      "date": "2020-08-05",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 476,
+      "tie_breaking": "July 27, 2020 at 01:02:47 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=158"
+    },
+    {
+      "draw_number": "157",
+      "date": "2020-07-23",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3343,
+      "crs": 445,
+      "tie_breaking": "July 12, 2020 at 15:16:55 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=157"
+    },
+    {
+      "draw_number": "156",
+      "date": "2020-07-22",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 557,
+      "crs": 687,
+      "tie_breaking": "November 11, 2019 at 08:51:21 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=156"
+    },
+    {
+      "draw_number": "155",
+      "date": "2020-07-08",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 478,
+      "tie_breaking": "February 11, 2020 at 03:17:13 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=155"
+    },
+    {
+      "draw_number": "154",
+      "date": "2020-06-25",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3508,
+      "crs": 431,
+      "tie_breaking": "April 3, 2020 at 12:56:32 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=154"
+    },
+    {
+      "draw_number": "153",
+      "date": "2020-06-24",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 392,
+      "crs": 696,
+      "tie_breaking": "April 23, 2020 at 10:39:30 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=153"
+    },
+    {
+      "draw_number": "152",
+      "date": "2020-06-11",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3559,
+      "crs": 437,
+      "tie_breaking": "May 25, 2020 at 00:31:43 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=152"
+    },
+    {
+      "draw_number": "151",
+      "date": "2020-06-10",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 341,
+      "crs": 743,
+      "tie_breaking": "April 14, 2020 at 13:25:51 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=151"
+    },
+    {
+      "draw_number": "150",
+      "date": "2020-05-28",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3515,
+      "crs": 440,
+      "tie_breaking": "March 7, 2020 at 10:36:59 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=150"
+    },
+    {
+      "draw_number": "149",
+      "date": "2020-05-27",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 385,
+      "crs": 757,
+      "tie_breaking": "April 27, 2020 at 10:19:01 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=149"
+    },
+    {
+      "draw_number": "148",
+      "date": "2020-05-14",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3371,
+      "crs": 447,
+      "tie_breaking": "December 23, 2019 at 10:01:06 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=148"
+    },
+    {
+      "draw_number": "147",
+      "date": "2020-05-13",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 529,
+      "crs": 718,
+      "tie_breaking": "March 19, 2020 at 12:53:21 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=147"
+    },
+    {
+      "draw_number": "146",
+      "date": "2020-04-30",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3311,
+      "crs": 452,
+      "tie_breaking": "October 10, 2019 at 19:15:28 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=146"
+    },
+    {
+      "draw_number": "145",
+      "date": "2020-04-29",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 589,
+      "crs": 692,
+      "tie_breaking": "March 11, 2020 at 13:46:21 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=145"
+    },
+    {
+      "draw_number": "144",
+      "date": "2020-04-16",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3782,
+      "crs": 455,
+      "tie_breaking": "January 20, 2020 at 17:37:33 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=144"
+    },
+    {
+      "draw_number": "143",
+      "date": "2020-04-15",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 118,
+      "crs": 808,
+      "tie_breaking": "March 18, 2020 at 10:30:55 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=143"
+    },
+    {
+      "draw_number": "142",
+      "date": "2020-04-09",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3294,
+      "crs": 464,
+      "tie_breaking": "January 4, 2020 at 12:16:45 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=142"
+    },
+    {
+      "draw_number": "141",
+      "date": "2020-04-09",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 606,
+      "crs": 698,
+      "tie_breaking": "December 18, 2019 at 11:29:51 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=141"
+    },
+    {
+      "draw_number": "140",
+      "date": "2020-03-23",
+      "round_type": "Canadian Experience Class",
+      "invitations": 3232,
+      "crs": 467,
+      "tie_breaking": "November 25, 2019 at 14:00:35 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=140"
+    },
+    {
+      "draw_number": "139",
+      "date": "2020-03-18",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 668,
+      "crs": 720,
+      "tie_breaking": "March 19, 2020 at 02:04:06 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=139"
+    },
+    {
+      "draw_number": "138",
+      "date": "2020-03-04",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 471,
+      "tie_breaking": "February 24, 2020 at 06:02:57 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=138"
+    },
+    {
+      "draw_number": "137",
+      "date": "2020-02-19",
+      "round_type": "No Program Specified",
+      "invitations": 4500,
+      "crs": 470,
+      "tie_breaking": "January 13, 2020 at 10:52:52 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=137"
+    },
+    {
+      "draw_number": "136",
+      "date": "2020-02-05",
+      "round_type": "No Program Specified",
+      "invitations": 3500,
+      "crs": 472,
+      "tie_breaking": "January 30, 2020 at 07:36:26 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=136"
+    },
+    {
+      "draw_number": "135",
+      "date": "2020-01-22",
+      "round_type": "No Program Specified",
+      "invitations": 3400,
+      "crs": 471,
+      "tie_breaking": "May 9, 2019 at 01:16:02 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=135"
+    },
+    {
+      "draw_number": "134",
+      "date": "2020-01-08",
+      "round_type": "No Program Specified",
+      "invitations": 3400,
+      "crs": 473,
+      "tie_breaking": "December 27, 2019 at 13:35:09 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=134"
+    },
+    {
+      "draw_number": "133",
+      "date": "2019-12-19",
+      "round_type": "No Program Specified",
+      "invitations": 3200,
+      "crs": 469,
+      "tie_breaking": "November 14, 2019 at 08:41:33 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=133"
+    },
+    {
+      "draw_number": "132",
+      "date": "2019-12-11",
+      "round_type": "No Program Specified",
+      "invitations": 3200,
+      "crs": 472,
+      "tie_breaking": "December 6, 2019 at 03:03:49 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=132"
+    },
+    {
+      "draw_number": "131",
+      "date": "2019-11-27",
+      "round_type": "No Program Specified",
+      "invitations": 3600,
+      "crs": 471,
+      "tie_breaking": "November 11, 2019 at 6:29:10 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=131"
+    },
+    {
+      "draw_number": "130",
+      "date": "2019-11-13",
+      "round_type": "No Program Specified",
+      "invitations": 3600,
+      "crs": 472,
+      "tie_breaking": "October 8, 2019 at 10:46:01 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=130"
+    },
+    {
+      "draw_number": "129",
+      "date": "2019-10-30",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 475,
+      "tie_breaking": "August 29, 2019 at 03:50:24 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=129"
+    },
+    {
+      "draw_number": "128",
+      "date": "2019-10-16",
+      "round_type": "Federal Skilled Trades",
+      "invitations": 500,
+      "crs": 357,
+      "tie_breaking": "March 4, 2019 at 20:36:42 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=128"
+    },
+    {
+      "draw_number": "127",
+      "date": "2019-10-02",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 464,
+      "tie_breaking": "September 20, 2019 at 15:05:04 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=127"
+    },
+    {
+      "draw_number": "126",
+      "date": "2019-09-18",
+      "round_type": "No Program Specified",
+      "invitations": 3600,
+      "crs": 462,
+      "tie_breaking": "August 29, 2019 at 07:57:13 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=126"
+    },
+    {
+      "draw_number": "125",
+      "date": "2019-09-04",
+      "round_type": "No Program Specified",
+      "invitations": 3600,
+      "crs": 463,
+      "tie_breaking": "August 23, 2019 at 13:33:34 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=125"
+    },
+    {
+      "draw_number": "124",
+      "date": "2019-08-20",
+      "round_type": "No Program Specified",
+      "invitations": 3600,
+      "crs": 457,
+      "tie_breaking": "March 24, 2019 at 15:32:42 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=124"
+    },
+    {
+      "draw_number": "123",
+      "date": "2019-08-12",
+      "round_type": "No Program Specified",
+      "invitations": 3600,
+      "crs": 466,
+      "tie_breaking": "August 6, 2019 at 12:14:53 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=123"
+    },
+    {
+      "draw_number": "122",
+      "date": "2019-07-24",
+      "round_type": "No Program Specified",
+      "invitations": 3600,
+      "crs": 459,
+      "tie_breaking": "May 25, 2019 at 14:40:52 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=122"
+    },
+    {
+      "draw_number": "121",
+      "date": "2019-07-10",
+      "round_type": "No Program Specified",
+      "invitations": 3600,
+      "crs": 460,
+      "tie_breaking": "June 11, 2019 at 00:27:18 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=121"
+    },
+    {
+      "draw_number": "120",
+      "date": "2019-06-26",
+      "round_type": "No Program Specified",
+      "invitations": 3350,
+      "crs": 462,
+      "tie_breaking": "May 11, 2019 at 17:40:54 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=120"
+    },
+    {
+      "draw_number": "119",
+      "date": "2019-06-12",
+      "round_type": "No Program Specified",
+      "invitations": 3350,
+      "crs": 465,
+      "tie_breaking": "June 6, 2019 at 13:51:59 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=119"
+    },
+    {
+      "draw_number": "118",
+      "date": "2019-05-29",
+      "round_type": "No Program Specified",
+      "invitations": 3350,
+      "crs": 470,
+      "tie_breaking": "May 23, 2019 at 10:18:56 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=118"
+    },
+    {
+      "draw_number": "117",
+      "date": "2019-05-15",
+      "round_type": "Federal Skilled Trades",
+      "invitations": 500,
+      "crs": 332,
+      "tie_breaking": "August 29, 2018 at 8:32:03 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=117"
+    },
+    {
+      "draw_number": "116",
+      "date": "2019-05-01",
+      "round_type": "No Program Specified",
+      "invitations": 3350,
+      "crs": 450,
+      "tie_breaking": "November 5, 2018 at 12:27:07 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=116"
+    },
+    {
+      "draw_number": "115",
+      "date": "2019-04-17",
+      "round_type": "No Program Specified",
+      "invitations": 3350,
+      "crs": 451,
+      "tie_breaking": "April 2, 2019 at 15:01:49 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=115"
+    },
+    {
+      "draw_number": "114",
+      "date": "2019-04-03",
+      "round_type": "No Program Specified",
+      "invitations": 3350,
+      "crs": 451,
+      "tie_breaking": "January 9, 2019 at 7:35:09 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=114"
+    },
+    {
+      "draw_number": "113",
+      "date": "2019-03-20",
+      "round_type": "No Program Specified",
+      "invitations": 3350,
+      "crs": 452,
+      "tie_breaking": "February 7, 2019 at 9:59:25 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=113"
+    },
+    {
+      "draw_number": "112",
+      "date": "2019-03-06",
+      "round_type": "No Program Specified",
+      "invitations": 3350,
+      "crs": 454,
+      "tie_breaking": "February 11, 2019 at 17:21:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=112"
+    },
+    {
+      "draw_number": "111",
+      "date": "2019-02-20",
+      "round_type": "No Program Specified",
+      "invitations": 3350,
+      "crs": 457,
+      "tie_breaking": "December 6, 2018 at 12:38:11 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=111"
+    },
+    {
+      "draw_number": "110",
+      "date": "2019-01-30",
+      "round_type": "No Program Specified",
+      "invitations": 3350,
+      "crs": 438,
+      "tie_breaking": "April 26, 2018 at 05:00:46 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=110"
+    },
+    {
+      "draw_number": "109",
+      "date": "2019-01-23",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 443,
+      "tie_breaking": "January 2, 2019 at 03:55:26 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=109"
+    },
+    {
+      "draw_number": "108",
+      "date": "2019-01-09",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 449,
+      "tie_breaking": "January 2, 2019 at 11:40:53 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=108"
+    },
+    {
+      "draw_number": "107",
+      "date": "2018-12-19",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 439,
+      "tie_breaking": "February 6, 2018 at 19:31:37 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=107"
+    },
+    {
+      "draw_number": "106",
+      "date": "2018-12-12",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 445,
+      "tie_breaking": "November 28, 2018 at 09:51:43 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=106"
+    },
+    {
+      "draw_number": "105",
+      "date": "2018-11-28",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 445,
+      "tie_breaking": "October 22, 2018 at 14:40:13 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=105"
+    },
+    {
+      "draw_number": "104",
+      "date": "2018-11-14",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 449,
+      "tie_breaking": "September 16, 2018 at 12:41:42 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=104"
+    },
+    {
+      "draw_number": "103",
+      "date": "2018-10-29",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 442,
+      "tie_breaking": "October 16, 2018 at 06:09:04 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=103"
+    },
+    {
+      "draw_number": "102",
+      "date": "2018-10-15",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 440,
+      "tie_breaking": "September 18, 2018 at 11:06:29 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=102"
+    },
+    {
+      "draw_number": "101",
+      "date": "2018-10-03",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 445,
+      "tie_breaking": "October 2, 2018 at 04:02:11 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=101"
+    },
+    {
+      "draw_number": "100",
+      "date": "2018-09-24",
+      "round_type": "Federal Skilled Trades",
+      "invitations": 400,
+      "crs": 284,
+      "tie_breaking": "February 18, 2018 at 12:31:16 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=100"
+    },
+    {
+      "draw_number": "99",
+      "date": "2018-09-19",
+      "round_type": "No Program Specified",
+      "invitations": 3500,
+      "crs": 441,
+      "tie_breaking": "September 6, 2018 at 10:28:45 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=99"
+    },
+    {
+      "draw_number": "98",
+      "date": "2018-09-05",
+      "round_type": "No Program Specified",
+      "invitations": 3900,
+      "crs": 440,
+      "tie_breaking": "April 29, 2018 at 14:28:34 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=98"
+    },
+    {
+      "draw_number": "97",
+      "date": "2018-08-22",
+      "round_type": "No Program Specified",
+      "invitations": 3750,
+      "crs": 440,
+      "tie_breaking": "February 21, 2018 at 11:28:03 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=97"
+    },
+    {
+      "draw_number": "96",
+      "date": "2018-08-08",
+      "round_type": "No Program Specified",
+      "invitations": 3750,
+      "crs": 440,
+      "tie_breaking": "January 31, 2018 at 00:06:40 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=96"
+    },
+    {
+      "draw_number": "95",
+      "date": "2018-07-25",
+      "round_type": "No Program Specified",
+      "invitations": 3750,
+      "crs": 441,
+      "tie_breaking": "December 31, 2017 at 12:14:21 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=95"
+    },
+    {
+      "draw_number": "94",
+      "date": "2018-07-11",
+      "round_type": "No Program Specified",
+      "invitations": 3750,
+      "crs": 442,
+      "tie_breaking": "June 26, 2018 at 13:18:55 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=94"
+    },
+    {
+      "draw_number": "93",
+      "date": "2018-06-25",
+      "round_type": "No Program Specified",
+      "invitations": 3750,
+      "crs": 442,
+      "tie_breaking": "January 28, 2018 at 21:06:11 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=93"
+    },
+    {
+      "draw_number": "92",
+      "date": "2018-06-13",
+      "round_type": "No Program Specified",
+      "invitations": 3750,
+      "crs": 451,
+      "tie_breaking": "July 21, 2017 at 07:01:28 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=92"
+    },
+    {
+      "draw_number": "91b",
+      "date": "2018-05-30",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 200,
+      "crs": 902,
+      "tie_breaking": "March 23, 2018 at 05:38:02 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=91b"
+    },
+    {
+      "draw_number": "91a",
+      "date": "2018-05-30",
+      "round_type": "Federal Skilled Trades",
+      "invitations": 500,
+      "crs": 288,
+      "tie_breaking": "June 7, 2017 at 20:11:13 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=91a"
+    },
+    {
+      "draw_number": "90",
+      "date": "2018-05-23",
+      "round_type": "No Program Specified",
+      "invitations": 3500,
+      "crs": 440,
+      "tie_breaking": "December 30, 2017 at 06:39:40 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=90"
+    },
+    {
+      "draw_number": "89",
+      "date": "2018-05-09",
+      "round_type": "No Program Specified",
+      "invitations": 3500,
+      "crs": 441,
+      "tie_breaking": "December 12, 2017 at 01:51:38 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=89"
+    },
+    {
+      "draw_number": "88",
+      "date": "2018-04-25",
+      "round_type": "No Program Specified",
+      "invitations": 3500,
+      "crs": 441,
+      "tie_breaking": "December 8, 2017 at 10:25:33 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=88"
+    },
+    {
+      "draw_number": "87",
+      "date": "2018-04-11",
+      "round_type": "No Program Specified",
+      "invitations": 3500,
+      "crs": 444,
+      "tie_breaking": "March 26, 2018 at 08:25:40 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=87"
+    },
+    {
+      "draw_number": "86",
+      "date": "2018-03-26",
+      "round_type": "No Program Specified",
+      "invitations": 3000,
+      "crs": 446,
+      "tie_breaking": "February 23, 2018 at 08:06:19 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=86"
+    },
+    {
+      "draw_number": "85",
+      "date": "2018-03-14",
+      "round_type": "No Program Specified",
+      "invitations": 3000,
+      "crs": 456,
+      "tie_breaking": "March 3, 2018 at 02:12:11 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=85"
+    },
+    {
+      "draw_number": "84",
+      "date": "2018-02-21",
+      "round_type": "No Program Specified",
+      "invitations": 3000,
+      "crs": 442,
+      "tie_breaking": "February 11, 2018 at 17:03:32 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=84"
+    },
+    {
+      "draw_number": "83",
+      "date": "2018-02-07",
+      "round_type": "No Program Specified",
+      "invitations": 3000,
+      "crs": 442,
+      "tie_breaking": "May 29, 2017 at 07:01:15 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=83"
+    },
+    {
+      "draw_number": "82",
+      "date": "2018-01-24",
+      "round_type": "No Program Specified",
+      "invitations": 2750,
+      "crs": 444,
+      "tie_breaking": "January 17, 2018 at 12:33:00 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=82"
+    },
+    {
+      "draw_number": "81",
+      "date": "2018-01-10",
+      "round_type": "No Program Specified",
+      "invitations": 2750,
+      "crs": 446,
+      "tie_breaking": "November 18, 2017 at 6:30:42 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=81"
+    },
+    {
+      "draw_number": "80",
+      "date": "2017-12-20",
+      "round_type": "No Program Specified",
+      "invitations": 2750,
+      "crs": 446,
+      "tie_breaking": "October 02, 2017 at 14:56:53 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=80"
+    },
+    {
+      "draw_number": "79",
+      "date": "2017-12-06",
+      "round_type": "No Program Specified",
+      "invitations": 2750,
+      "crs": 452,
+      "tie_breaking": "November 16, 2017 at 04:20:20 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=79"
+    },
+    {
+      "draw_number": "78",
+      "date": "2017-11-15",
+      "round_type": "No Program Specified",
+      "invitations": 2750,
+      "crs": 439,
+      "tie_breaking": "October 19, 2017 at 12:02:28 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=78"
+    },
+    {
+      "draw_number": "77",
+      "date": "2017-11-08",
+      "round_type": "No Program Specified",
+      "invitations": 2000,
+      "crs": 458,
+      "tie_breaking": "October 23, 2017 at 15:58:27 UTC",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=77"
+    },
+    {
+      "draw_number": "76",
+      "date": "2017-11-01",
+      "round_type": "Federal Skilled Trades",
+      "invitations": 505,
+      "crs": 241,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=76"
+    },
+    {
+      "draw_number": "75",
+      "date": "2017-11-01",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 290,
+      "crs": 673,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=75"
+    },
+    {
+      "draw_number": "74",
+      "date": "2017-10-18",
+      "round_type": "No Program Specified",
+      "invitations": 2757,
+      "crs": 436,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=74"
+    },
+    {
+      "draw_number": "73",
+      "date": "2017-10-04",
+      "round_type": "No Program Specified",
+      "invitations": 2801,
+      "crs": 438,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=73"
+    },
+    {
+      "draw_number": "72",
+      "date": "2017-09-20",
+      "round_type": "No Program Specified",
+      "invitations": 2871,
+      "crs": 433,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=72"
+    },
+    {
+      "draw_number": "71",
+      "date": "2017-09-06",
+      "round_type": "No Program Specified",
+      "invitations": 2772,
+      "crs": 435,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=71"
+    },
+    {
+      "draw_number": "70",
+      "date": "2017-08-23",
+      "round_type": "No Program Specified",
+      "invitations": 3035,
+      "crs": 434,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=70"
+    },
+    {
+      "draw_number": "69",
+      "date": "2017-08-09",
+      "round_type": "No Program Specified",
+      "invitations": 2991,
+      "crs": 433,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=69"
+    },
+    {
+      "draw_number": "68",
+      "date": "2017-08-02",
+      "round_type": "No Program Specified",
+      "invitations": 3264,
+      "crs": 441,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=68"
+    },
+    {
+      "draw_number": "67",
+      "date": "2017-07-12",
+      "round_type": "No Program Specified",
+      "invitations": 3202,
+      "crs": 440,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=67"
+    },
+    {
+      "draw_number": "66",
+      "date": "2017-06-28",
+      "round_type": "No Program Specified",
+      "invitations": 3409,
+      "crs": 449,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=66"
+    },
+    {
+      "draw_number": "65",
+      "date": "2017-05-31",
+      "round_type": "No Program Specified",
+      "invitations": 3877,
+      "crs": 413,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=65"
+    },
+    {
+      "draw_number": "64",
+      "date": "2017-05-26",
+      "round_type": "Federal Skilled Trades",
+      "invitations": 400,
+      "crs": 199,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=64"
+    },
+    {
+      "draw_number": "63",
+      "date": "2017-05-26",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 143,
+      "crs": 775,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=63"
+    },
+    {
+      "draw_number": "62",
+      "date": "2017-05-17",
+      "round_type": "No Program Specified",
+      "invitations": 3687,
+      "crs": 415,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=62"
+    },
+    {
+      "draw_number": "61",
+      "date": "2017-05-04",
+      "round_type": "No Program Specified",
+      "invitations": 3796,
+      "crs": 423,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=61"
+    },
+    {
+      "draw_number": "60",
+      "date": "2017-04-19",
+      "round_type": "No Program Specified",
+      "invitations": 3665,
+      "crs": 415,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=60"
+    },
+    {
+      "draw_number": "59",
+      "date": "2017-04-12",
+      "round_type": "No Program Specified",
+      "invitations": 3923,
+      "crs": 423,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=59"
+    },
+    {
+      "draw_number": "58",
+      "date": "2017-04-05",
+      "round_type": "No Program Specified",
+      "invitations": 3753,
+      "crs": 431,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=58"
+    },
+    {
+      "draw_number": "57",
+      "date": "2017-03-24",
+      "round_type": "No Program Specified",
+      "invitations": 3749,
+      "crs": 441,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=57"
+    },
+    {
+      "draw_number": "56",
+      "date": "2017-03-01",
+      "round_type": "No Program Specified",
+      "invitations": 3884,
+      "crs": 434,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=56"
+    },
+    {
+      "draw_number": "55",
+      "date": "2017-02-22",
+      "round_type": "No Program Specified",
+      "invitations": 3611,
+      "crs": 441,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=55"
+    },
+    {
+      "draw_number": "54",
+      "date": "2017-02-08",
+      "round_type": "No Program Specified",
+      "invitations": 3644,
+      "crs": 447,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=54"
+    },
+    {
+      "draw_number": "53",
+      "date": "2017-01-25",
+      "round_type": "No Program Specified",
+      "invitations": 3508,
+      "crs": 453,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=53"
+    },
+    {
+      "draw_number": "52",
+      "date": "2017-01-11",
+      "round_type": "No Program Specified",
+      "invitations": 3334,
+      "crs": 459,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=52"
+    },
+    {
+      "draw_number": "51",
+      "date": "2017-01-04",
+      "round_type": "No Program Specified",
+      "invitations": 2902,
+      "crs": 468,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=51"
+    },
+    {
+      "draw_number": "50",
+      "date": "2016-12-22",
+      "round_type": "No Program Specified",
+      "invitations": 2878,
+      "crs": 475,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=50"
+    },
+    {
+      "draw_number": "49",
+      "date": "2016-12-16",
+      "round_type": "No Program Specified",
+      "invitations": 1936,
+      "crs": 497,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=49"
+    },
+    {
+      "draw_number": "48",
+      "date": "2016-11-30",
+      "round_type": "Provincial Nominee Program",
+      "invitations": 559,
+      "crs": 786,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=48"
+    },
+    {
+      "draw_number": "47",
+      "date": "2016-11-16",
+      "round_type": "No Program Specified",
+      "invitations": 2427,
+      "crs": 470,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=47"
+    },
+    {
+      "draw_number": "46",
+      "date": "2016-11-02",
+      "round_type": "No Program Specified",
+      "invitations": 2080,
+      "crs": 472,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=46"
+    },
+    {
+      "draw_number": "45",
+      "date": "2016-10-19",
+      "round_type": "No Program Specified",
+      "invitations": 1804,
+      "crs": 475,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=45"
+    },
+    {
+      "draw_number": "44",
+      "date": "2016-10-12",
+      "round_type": "No Program Specified",
+      "invitations": 1518,
+      "crs": 484,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=44"
+    },
+    {
+      "draw_number": "43",
+      "date": "2016-09-21",
+      "round_type": "No Program Specified",
+      "invitations": 1288,
+      "crs": 483,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=43"
+    },
+    {
+      "draw_number": "42",
+      "date": "2016-09-07",
+      "round_type": "No Program Specified",
+      "invitations": 1000,
+      "crs": 491,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=42"
+    },
+    {
+      "draw_number": "41",
+      "date": "2016-08-24",
+      "round_type": "No Program Specified",
+      "invitations": 750,
+      "crs": 538,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=41"
+    },
+    {
+      "draw_number": "40",
+      "date": "2016-08-10",
+      "round_type": "No Program Specified",
+      "invitations": 754,
+      "crs": 490,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=40"
+    },
+    {
+      "draw_number": "39",
+      "date": "2016-07-27",
+      "round_type": "No Program Specified",
+      "invitations": 755,
+      "crs": 488,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=39"
+    },
+    {
+      "draw_number": "38",
+      "date": "2016-07-13",
+      "round_type": "No Program Specified",
+      "invitations": 747,
+      "crs": 482,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=38"
+    },
+    {
+      "draw_number": "37",
+      "date": "2016-06-29",
+      "round_type": "No Program Specified",
+      "invitations": 773,
+      "crs": 482,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=37"
+    },
+    {
+      "draw_number": "36",
+      "date": "2016-06-15",
+      "round_type": "No Program Specified",
+      "invitations": 752,
+      "crs": 488,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=36"
+    },
+    {
+      "draw_number": "35",
+      "date": "2016-06-01",
+      "round_type": "No Program Specified",
+      "invitations": 762,
+      "crs": 483,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=35"
+    },
+    {
+      "draw_number": "34",
+      "date": "2016-05-18",
+      "round_type": "No Program Specified",
+      "invitations": 763,
+      "crs": 484,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=34"
+    },
+    {
+      "draw_number": "33",
+      "date": "2016-05-06",
+      "round_type": "No Program Specified",
+      "invitations": 799,
+      "crs": 534,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=33"
+    },
+    {
+      "draw_number": "32",
+      "date": "2016-04-20",
+      "round_type": "No Program Specified",
+      "invitations": 1018,
+      "crs": 468,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=32"
+    },
+    {
+      "draw_number": "31",
+      "date": "2016-04-06",
+      "round_type": "No Program Specified",
+      "invitations": 954,
+      "crs": 470,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=31"
+    },
+    {
+      "draw_number": "30",
+      "date": "2016-03-23",
+      "round_type": "No Program Specified",
+      "invitations": 1014,
+      "crs": 470,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=30"
+    },
+    {
+      "draw_number": "29",
+      "date": "2016-03-09",
+      "round_type": "No Program Specified",
+      "invitations": 1013,
+      "crs": 473,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=29"
+    },
+    {
+      "draw_number": "28",
+      "date": "2016-02-24",
+      "round_type": "No Program Specified",
+      "invitations": 1484,
+      "crs": 453,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=28"
+    },
+    {
+      "draw_number": "27",
+      "date": "2016-02-10",
+      "round_type": "No Program Specified",
+      "invitations": 1505,
+      "crs": 459,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=27"
+    },
+    {
+      "draw_number": "26",
+      "date": "2016-01-27",
+      "round_type": "No Program Specified",
+      "invitations": 1468,
+      "crs": 457,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=26"
+    },
+    {
+      "draw_number": "25",
+      "date": "2016-01-13",
+      "round_type": "No Program Specified",
+      "invitations": 1518,
+      "crs": 453,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=25"
+    },
+    {
+      "draw_number": "24",
+      "date": "2016-01-06",
+      "round_type": "No Program Specified",
+      "invitations": 1463,
+      "crs": 461,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=24"
+    },
+    {
+      "draw_number": "23",
+      "date": "2015-12-18",
+      "round_type": "No Program Specified",
+      "invitations": 1503,
+      "crs": 460,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=23"
+    },
+    {
+      "draw_number": "22",
+      "date": "2015-12-04",
+      "round_type": "No Program Specified",
+      "invitations": 1451,
+      "crs": 461,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=22"
+    },
+    {
+      "draw_number": "21",
+      "date": "2015-11-27",
+      "round_type": "No Program Specified",
+      "invitations": 1559,
+      "crs": 472,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=21"
+    },
+    {
+      "draw_number": "20",
+      "date": "2015-11-13",
+      "round_type": "No Program Specified",
+      "invitations": 1506,
+      "crs": 484,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=20"
+    },
+    {
+      "draw_number": "19",
+      "date": "2015-10-23",
+      "round_type": "No Program Specified",
+      "invitations": 1502,
+      "crs": 489,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=19"
+    },
+    {
+      "draw_number": "18",
+      "date": "2015-10-02",
+      "round_type": "No Program Specified",
+      "invitations": 1530,
+      "crs": 450,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=18"
+    },
+    {
+      "draw_number": "17",
+      "date": "2015-09-18",
+      "round_type": "No Program Specified",
+      "invitations": 1545,
+      "crs": 450,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=17"
+    },
+    {
+      "draw_number": "16",
+      "date": "2015-09-08",
+      "round_type": "No Program Specified",
+      "invitations": 1517,
+      "crs": 459,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=16"
+    },
+    {
+      "draw_number": "15",
+      "date": "2015-08-21",
+      "round_type": "No Program Specified",
+      "invitations": 1523,
+      "crs": 456,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=15"
+    },
+    {
+      "draw_number": "14",
+      "date": "2015-08-07",
+      "round_type": "No Program Specified",
+      "invitations": 1402,
+      "crs": 471,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=14"
+    },
+    {
+      "draw_number": "13",
+      "date": "2015-07-17",
+      "round_type": "No Program Specified",
+      "invitations": 1581,
+      "crs": 451,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=13"
+    },
+    {
+      "draw_number": "12",
+      "date": "2015-07-10",
+      "round_type": "No Program Specified",
+      "invitations": 1516,
+      "crs": 463,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=12"
+    },
+    {
+      "draw_number": "11",
+      "date": "2015-06-26",
+      "round_type": "No Program Specified",
+      "invitations": 1575,
+      "crs": 469,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=11"
+    },
+    {
+      "draw_number": "10",
+      "date": "2015-06-12",
+      "round_type": "No Program Specified",
+      "invitations": 1501,
+      "crs": 482,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=10"
+    },
+    {
+      "draw_number": "9",
+      "date": "2015-05-22",
+      "round_type": "No Program Specified",
+      "invitations": 1361,
+      "crs": 755,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=9"
+    },
+    {
+      "draw_number": "8",
+      "date": "2015-04-17",
+      "round_type": "No Program Specified",
+      "invitations": 715,
+      "crs": 453,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=8"
+    },
+    {
+      "draw_number": "7",
+      "date": "2015-04-10",
+      "round_type": "No Program Specified",
+      "invitations": 925,
+      "crs": 469,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=7"
+    },
+    {
+      "draw_number": "6",
+      "date": "2015-03-27",
+      "round_type": "No Program Specified",
+      "invitations": 1637,
+      "crs": 453,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=6"
+    },
+    {
+      "draw_number": "5",
+      "date": "2015-03-20",
+      "round_type": "No Program Specified",
+      "invitations": 1620,
+      "crs": 481,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=5"
+    },
+    {
+      "draw_number": "4",
+      "date": "2015-02-27",
+      "round_type": "No Program Specified",
+      "invitations": 1187,
+      "crs": 735,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=4"
+    },
+    {
+      "draw_number": "3",
+      "date": "2015-02-20",
+      "round_type": "Canadian Experience Class",
+      "invitations": 849,
+      "crs": 808,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=3"
+    },
+    {
+      "draw_number": "2",
+      "date": "2015-02-07",
+      "round_type": "No Program Specified",
+      "invitations": 779,
+      "crs": 818,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=2"
+    },
+    {
+      "draw_number": "1",
+      "date": "2015-01-31",
+      "round_type": "No Program Specified",
+      "invitations": 779,
+      "crs": 886,
+      "tie_breaking": null,
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=1"
+    }
+  ]
+}
