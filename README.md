@@ -112,6 +112,7 @@ npm start
 ## 6. 项目资料
 
 - [架构与数据流](docs/ARCHITECTURE.md)
+- [项目状态、未完成事项与逐文件说明（答辩准备）](docs/PROJECT_STATUS_AND_FILE_GUIDE.md)
 - [数据库接入与部署](docs/SETUP.md)
 - [测试记录与接入后验收](docs/TESTING.md)
 - [IRCC 抽选记录](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations.html)
