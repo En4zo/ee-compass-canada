@@ -8,7 +8,7 @@ EE Compass Canada 是一个加拿大 Express Entry 信息网站，把 IRCC 官�
 
 当前状态可以概括为：**本地预览可用；主要业务代码已写；真实账户、数据库和云端定时同步尚未接入验证；网站尚未公开部署。**
 
-项目本地路径：`/Users/enzuomou/Documents/nau mcit 2/ee-compass-canada`。当前本地分支为 `codex/initial-implementation`，提交为 `52a293a`。GitHub PR 为 [#1](https://github.com/En4zo/ee-compass-canada/pull/1)。本次核对时 GitHub API 无法连接，因此本文不把 PR 当前是否已合并作为已核实事实；此前在 2026-09-20 核实时它仍处于 Open 状态。
+项目本地路径：`/Users/enzuomou/Documents/nau mcit 2/ee-compass-canada`。当前本地分支为 `codex/initial-implementation`。GitHub PR 为 [#1](https://github.com/En4zo/ee-compass-canada/pull/1)；2026-09-22 核对时状态为 **Open**，尚未合并到 `main`。完整代码和本文已推送到该 PR 分支。
 
 ## 2. 两种运行状态与功能完成情况
 
