@@ -1,0 +1,40 @@
+import type { Post } from "./schema";
+export const demoPosts: Post[] = [
+  {
+    id: "demo-1",
+    author_id: "demo",
+    title: "CEC 抽选应该怎样和自己的 CRS 分数比较？",
+    body: "这是示例讨论。查看趋势时，先选择 Canadian Experience Class，再选择日期范围。不同轮次的候选人范围不一样，不能把所有最低分连起来预测下一次结果。你通常关注哪段时间的数据？",
+    topic: "CEC",
+    kind: "discussion",
+    source_url: null,
+    created_at: "2026-09-17T10:00:00Z",
+    hidden: false,
+    profiles: { display_name: "Compass 社区" },
+  },
+  {
+    id: "demo-2",
+    author_id: "demo",
+    title: "分享：整理语言成绩和学历资料的小习惯",
+    body: "这是用于展示社区样式的虚构示例，不是真实申请经历。我会把考试日期、成绩有效期和学历认证进度整理到清单里，然后分别查看官方说明。每个人情况不同，经验分享不能代替正式规则。",
+    topic: "CRS",
+    kind: "experience",
+    source_url: null,
+    created_at: "2026-09-16T12:00:00Z",
+    hidden: false,
+    profiles: { display_name: "Maple Explorer" },
+  },
+  {
+    id: "demo-3",
+    author_id: "demo",
+    title: "官方来源：CRS 评分标准与 job offer 加分调整",
+    body: "示例来源帖。CRS 官方页面说明，自 2025 年 3 月 25 日起不再为 job offer 提供额外 CRS 分数。项目资格条件和 CRS 分数是不同问题，请阅读官方原文核实自己的情况。",
+    topic: "General",
+    kind: "official",
+    source_url:
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html",
+    created_at: "2026-09-15T12:00:00Z",
+    hidden: false,
+    profiles: { display_name: "Compass 社区" },
+  },
+];
