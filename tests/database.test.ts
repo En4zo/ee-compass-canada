@@ -26,6 +26,12 @@ beforeAll(async () => {
       "utf8",
     ),
   );
+  await db.exec(
+    await readFile(
+      new URL("../supabase/migrations/002_crs_rules_2026.sql", import.meta.url),
+      "utf8",
+    ),
+  );
   await db.query("insert into auth.users(id) values($1),($2)", [alice, bob]);
   const p = await asUser(alice, () =>
     db.query<{ id: string }>(
@@ -39,6 +45,15 @@ afterAll(async () => {
   await db.close();
 });
 describe("PostgreSQL migration and RLS", () => {
+  it("records the current reviewed CRS rule version", async () => {
+    const result = await asUser(null, () =>
+      db.query<{ version: string }>(
+        "select version from public.crs_rule_versions order by reviewed_at desc limit 1",
+      ),
+    );
+    expect(result.rows[0].version).toBe("IRCC-2026-06-22-reviewed-2026-10-01");
+  });
+
   it("allows anonymous public reads", async () => {
     expect(
       (await asUser(null, () => db.query("select * from public.posts"))).rows,

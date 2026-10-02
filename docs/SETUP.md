@@ -5,7 +5,7 @@
 ## 1. 建立数据库
 
 1. 在 Supabase 创建**新的独立项目**。
-2. 打开 SQL Editor，复制并执行 `supabase/migrations/001_initial.sql` 全文。
+2. 打开 SQL Editor，按编号顺序执行 `supabase/migrations/001_initial.sql` 和 `002_crs_rules_2026.sql` 全文。
 3. 检查 public 下出现 draws、profiles、posts、comments、admin_roles、crs_rule_versions、sync_runs、data_status 八张表，且全部启用 RLS。
 4. 迁移只用于新项目，执行一次即可；不要在已有业务数据的项目中重复执行。
 
@@ -18,11 +18,11 @@
 ```dotenv
 NEXT_PUBLIC_SUPABASE_URL=https://YOUR_PROJECT.supabase.co
 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=YOUR_PUBLISHABLE_KEY
-SUPABASE_SERVICE_ROLE_KEY=YOUR_SERVER_SERVICE_ROLE_KEY
+SUPABASE_SECRET_KEY=YOUR_SERVER_SECRET_KEY
 CRON_SECRET=YOUR_RANDOM_SECRET
 ```
 
-可以在 Supabase 项目的 API 设置中获取连接信息。publishable key 可公开用于受 RLS 保护的访问；service-role key 会绕过 RLS，**只能放服务器环境**。不要给后两项添加 `NEXT_PUBLIC_` 前缀。
+可以在 Supabase 项目的 Connect 或 API Keys 页面获取连接信息。publishable key 可公开用于受 RLS 保护的访问；secret key 会绕过 RLS，**只能放服务器环境**。不要给后两项添加 `NEXT_PUBLIC_` 前缀。项目也兼容旧版 `SUPABASE_SERVICE_ROLE_KEY`，但新项目应优先使用 `SUPABASE_SECRET_KEY`。`SUPABASE_JWKS_URL` 用于自行验证用户 JWT，本项目通过 Supabase 客户端管理会话，因此不需要配置。
 
 生成 cron secret：
 

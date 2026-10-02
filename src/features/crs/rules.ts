@@ -1,5 +1,5 @@
 // 与界面解耦的评分表。更新政策时新增版本并补充回归案例。
-export const RULE_VERSION = "IRCC-2025-03-25-reviewed-2026-09-18";
+export const RULE_VERSION = "IRCC-2026-06-22-reviewed-2026-10-01";
 export const RULE_SOURCE =
   "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html";
 export const EDUCATION = [

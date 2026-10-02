@@ -64,7 +64,7 @@ Supabase Auth → 登录身份 → Next.js 写入接口 → PostgreSQL RLS
 
 ### CRS 的计算边界
 
-表单使用每项听说读写的 **CLB/NCLC 等级**，不是 IELTS 原始分。申请人核心因素、随行配偶因素、技能转移能力和附加分分别计算；技能转移最多 100、附加分最多 600、总分最多 1200。配偶不随行或配偶为加拿大公民/永久居民时，使用“无随行配偶”的核心分表。`job offer` 的旧 CRS 附加分已取消，代码没有计入。规则版本写在结果中，数据库也保留版本记录；真正执行评分的是发布的 TypeScript 代码，数据库记录不会自动改变公式。
+表单可直接使用每项听说读写的 **CLB/NCLC 等级**，也可输入 IELTS General、CELPIP-General、PTE Core、TEF Canada 或 TCF Canada 原始成绩并自动换算。申请人核心因素、随行配偶因素、技能转移能力和附加分分别计算；技能转移最多 100、附加分最多 600、总分最多 1200。配偶不随行或配偶为加拿大公民/永久居民时，使用“无随行配偶”的核心分表。`job offer` 的旧 CRS 附加分已取消，代码没有计入。规则版本写在结果中，数据库也保留版本记录；真正执行评分的是发布的 TypeScript 代码，数据库记录不会自动改变公式。
 
 默认表单是一组**标注为示例**的输入：29 岁、单身、本科、第一语言四项 CLB 9、加拿大工作 1 年，得到 432 分。申请人必须替换为自己的情况。个人背景不会上传或存入数据库；只有点击“加入历史趋势比较”时，总分暂存于当前标签页的 `sessionStorage`。语言偏好保存在 `localStorage`。
 
@@ -175,12 +175,13 @@ Supabase Auth → 登录身份 → Next.js 写入接口 → PostgreSQL RLS
 
 ### 4.6 CRS 模块：`src/features/crs`
 
-| 文件                              | 作用                                                                |
-| --------------------------------- | ------------------------------------------------------------------- |
-| `src/features/crs/schema.ts`      | Zod 申请人输入格式、类型与标注为示例的默认值。                      |
-| `src/features/crs/rules.ts`       | 规则版本、官方来源、学历/年龄/加拿大经验等评分表。                  |
-| `src/features/crs/calculate.ts`   | 与 React 无关的纯评分函数；计算核心、配偶、技能转移、附加分与明细。 |
-| `src/features/crs/calculator.tsx` | 四步填写页面、输入错误显示、计算结果和加入历史比较的交互。          |
+| 文件                                 | 作用                                                                |
+| ------------------------------------ | ------------------------------------------------------------------- |
+| `src/features/crs/schema.ts`         | Zod 申请人输入格式、类型与标注为示例的默认值。                      |
+| `src/features/crs/rules.ts`          | 规则版本、官方来源、学历/年龄/加拿大经验等评分表。                  |
+| `src/features/crs/language-tests.ts` | IRCC 认可语言考试的原始成绩到 CLB/NCLC 的纯函数换算表。             |
+| `src/features/crs/calculate.ts`      | 与 React 无关的纯评分函数；计算核心、配偶、技能转移、附加分与明细。 |
+| `src/features/crs/calculator.tsx`    | 四步填写页面、输入错误显示、计算结果和加入历史比较的交互。          |
 
 ### 4.7 账户与社区模块
 
@@ -200,36 +201,38 @@ Supabase Auth → 登录身份 → Next.js 写入接口 → PostgreSQL RLS
 
 ### 4.8 数据库与测试
 
-| 文件                                  | 作用                                                                                                      |
-| ------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| `supabase/migrations/001_initial.sql` | 八张表、索引、RLS 策略、列级授权、注册触发器、发帖限频、审核 RPC 和事务导入 RPC。                         |
-| `tests/crs.test.ts`                   | CRS 的独立预期分数、年龄边界、配偶、语言、附加分和封顶测试。                                              |
-| `tests/sync.test.ts`                  | 官方 JSON 解析、异常批次、重复编号、网络失败和同步逻辑测试。                                              |
-| `tests/permissions.test.ts`           | HTTP 写入、管理员、Cron 和官方引用来源等边界测试。                                                        |
-| `tests/database.test.ts`              | 用 PGlite 执行真实 PostgreSQL 迁移，验证 RLS、作者权限、管理员、隐藏和事务回滚。                          |
-| `tests/e2e/public.spec.ts`            | Playwright 脚本：中英文、432 分流程、筛选、预览写入提示和窄屏布局；脚本已写，CLI 套件尚未计入已执行测试。 |
+| 文件                                         | 作用                                                                                                      |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| `supabase/migrations/001_initial.sql`        | 八张表、索引、RLS 策略、列级授权、注册触发器、发帖限频、审核 RPC 和事务导入 RPC。                         |
+| `supabase/migrations/002_crs_rules_2026.sql` | 保存 2026 年复核后的 CRS 规则版本、来源与语言换算说明。                                                   |
+| `tests/crs.test.ts`                          | CRS 的独立预期分数、年龄边界、配偶、语言、附加分和封顶测试。                                              |
+| `tests/language-tests.test.ts`               | 五种认可语言考试换算的阈值、边界和异常低分测试。                                                          |
+| `tests/sync.test.ts`                         | 官方 JSON 解析、异常批次、重复编号、网络失败和同步逻辑测试。                                              |
+| `tests/permissions.test.ts`                  | HTTP 写入、管理员、Cron 和官方引用来源等边界测试。                                                        |
+| `tests/database.test.ts`                     | 用 PGlite 执行真实 PostgreSQL 迁移，验证 RLS、作者权限、管理员、隐藏和事务回滚。                          |
+| `tests/e2e/public.spec.ts`                   | Playwright 脚本：中英文、432 分流程、筛选、预览写入提示和窄屏布局；脚本已写，CLI 套件尚未计入已执行测试。 |
 
 ### 4.9 不属于源码交付的本机文件
 
-`node_modules/` 是安装的第三方包，`.next/` 是构建/开发生成物，`*.tsbuildinfo` 是 TypeScript 缓存，`.DS_Store` 是 macOS 文件夹元数据，`playwright-report/` 和 `test-results/` 是浏览器测试输出。它们受 `.gitignore` 管理，不需要逐个讲解或提交。`.env.local` 当前不存在；创建后会保存真实密钥，不能提交。
+`node_modules/` 是安装的第三方包，`.next/` 是构建/开发生成物，`*.tsbuildinfo` 是 TypeScript 缓存，`.DS_Store` 是 macOS 文件夹元数据，`playwright-report/` 和 `test-results/` 是浏览器测试输出。它们受 `.gitignore` 管理，不需要逐个讲解或提交。`.env.local` 用于保存本机真实密钥，不能提交。
 
 ## 5. 已验证的结果与尚未验证的部分
 
-2026-09-22 在当前工作区重新执行：
+2026-10-01 在当前工作区重新执行：
 
 | 检查                      | 结果         | 说明                                                                  |
 | ------------------------- | ------------ | --------------------------------------------------------------------- |
-| `npm test`                | 通过         | 4 个测试文件、53 项测试。                                             |
+| `npm test`                | 通过         | 5 个测试文件、61 项测试。                                             |
 | `npm run typecheck`       | 通过         | TypeScript 静态检查。                                                 |
 | `npm run lint`            | 通过         | ESLint。                                                              |
 | `npm run format:check`    | 通过         | Prettier。                                                            |
 | `npm run build`           | 通过         | 本次使用 Next.js 官方支持的 Webpack 构建选项；已写入 `package.json`。 |
 | Playwright CLI            | 尚未重新运行 | 脚本存在；此前人工浏览器检查过桌面和手机核心流程。                    |
-| 真实 Supabase/Auth/Vercel | 尚未运行     | 目前没有 `.env.local` 和云项目配置。                                  |
+| 真实 Supabase/Auth/Vercel | 尚未验收     | 本地环境变量不能替代 Auth、RLS、邮件与云端部署的端到端验证。           |
 
 本次核对时，Next.js 默认 Turbopack 构建在当前运行环境因“创建进程/绑定端口被禁止”失败；改用 Next.js 支持的 `next build --webpack` 后构建成功。这说明当前项目可以生成生产构建，但不能据此声称 Turbopack 构建或 Vercel 部署已经通过。
 
-**测试的含义：** PGlite 运行的是 PostgreSQL SQL/RLS 逻辑，能证明迁移和策略在模拟用户身份下的行为；它不能替代 Supabase 托管 Auth、邮件、PostgREST、真实 Cookie 或 Vercel Cron 的线上验收。23 项 CRS 测试覆盖了主要规则，但没有穷举每种输入组合，也没有把所有结果逐项与 IRCC 在线计算器比对。
+**测试的含义：** PGlite 运行的是 PostgreSQL SQL/RLS 逻辑，能证明迁移和策略在模拟用户身份下的行为；它不能替代 Supabase 托管 Auth、邮件、PostgREST、真实 Cookie 或 Vercel Cron 的线上验收。23 项 CRS 规则测试和 7 项语言换算测试覆盖了主要规则，但没有穷举每种输入组合，也没有把所有结果逐项与 IRCC 在线计算器比对。
 
 ## 6. 尚待完成的工作，按答辩影响排序
 

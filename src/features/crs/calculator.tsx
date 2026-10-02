@@ -15,6 +15,31 @@ import { educationLabels } from "@/messages/navigation";
 import { EDUCATION, RULE_SOURCE, RULE_VERSION } from "./rules";
 import { applicantSchema, defaultApplicant, type Applicant } from "./schema";
 import { calculateCRS, type CRSResult } from "./calculate";
+import {
+  LANGUAGE_ABILITIES,
+  LANGUAGE_TESTS,
+  LANGUAGE_TEST_SOURCE,
+  TEST_LABELS,
+  convertLanguageScores,
+  scoreInputAttributes,
+  testsForLanguage,
+  type LanguageScores,
+  type LanguageTest,
+} from "./language-tests";
+
+type LanguageGroup = "first" | "second" | "spouseLanguage";
+
+const initialTests: Record<LanguageGroup, LanguageTest> = {
+  first: "direct",
+  second: "direct",
+  spouseLanguage: "direct",
+};
+
+const initialRawScores: Record<LanguageGroup, LanguageScores> = {
+  first: [...defaultApplicant.first],
+  second: [...defaultApplicant.second],
+  spouseLanguage: [...defaultApplicant.spouseLanguage],
+};
 function Field({
   label,
   hint,
@@ -38,7 +63,11 @@ export function Calculator() {
   const [a, setA] = useState<Applicant>({ ...defaultApplicant }),
     [step, setStep] = useState(0),
     [result, setResult] = useState<CRSResult | null>(null),
-    [error, setError] = useState("");
+    [error, setError] = useState(""),
+    [languageTests, setLanguageTests] =
+      useState<Record<LanguageGroup, LanguageTest>>(initialTests),
+    [rawLanguageScores, setRawLanguageScores] =
+      useState<Record<LanguageGroup, LanguageScores>>(initialRawScores);
   const steps = [
     t("基本背景", "Your background"),
     t("语言能力", "Language skills"),
@@ -76,34 +105,118 @@ export function Calculator() {
       ))}
     </select>
   );
-  const languageInputs = (key: "first" | "second" | "spouseLanguage") => (
-    <div className="language-grid">
-      {[
-        t("听力", "Listening"),
-        t("口语", "Speaking"),
-        t("阅读", "Reading"),
-        t("写作", "Writing"),
-      ].map((label, i) => (
-        <Field key={label} label={label}>
+  const changeLanguageTest = (key: LanguageGroup, test: LanguageTest) => {
+    const scores =
+      test === "direct" || test === "celpip"
+        ? ([...a[key]] as LanguageScores)
+        : ([0, 0, 0, 0] as LanguageScores);
+    setLanguageTests((old) => ({ ...old, [key]: test }));
+    setRawLanguageScores((old) => ({ ...old, [key]: scores }));
+    set(key, convertLanguageScores(test, scores));
+  };
+  const changeRawLanguageScore = (
+    key: LanguageGroup,
+    index: number,
+    value: number,
+  ) => {
+    const scores = [...rawLanguageScores[key]] as LanguageScores;
+    scores[index] = Number.isFinite(value) ? value : 0;
+    setRawLanguageScores((old) => ({ ...old, [key]: scores }));
+    set(key, convertLanguageScores(languageTests[key], scores));
+  };
+  const languageInputs = (
+    key: LanguageGroup,
+    allowedTests: readonly LanguageTest[],
+  ) => {
+    const test = languageTests[key];
+    return (
+      <div className="language-entry">
+        <Field
+          label={t("输入方式 / 考试类型", "Input method / test")}
+          hint={
+            test === "tef"
+              ? t(
+                  "请填写成绩单中的“Équivalence ancien score”，不是 Score / 699。",
+                  "Use the ‘Équivalence ancien score’ values, not Score / 699.",
+                )
+              : undefined
+          }
+        >
           <select
-            aria-label={`${key} ${label}`}
-            value={a[key][i]}
-            onChange={(e) => {
-              const levels = [...a[key]] as Applicant[typeof key];
-              levels[i] = Number(e.target.value);
-              set(key, levels);
-            }}
+            aria-label={`${key} test`}
+            value={test}
+            onChange={(event) =>
+              changeLanguageTest(key, event.target.value as LanguageTest)
+            }
           >
-            {Array.from({ length: 13 }, (_, n) => (
-              <option key={n} value={n}>
-                {n === 0 ? t("未考试", "Not tested") : n}
+            {allowedTests.map((value) => (
+              <option key={value} value={value}>
+                {TEST_LABELS[value]}
               </option>
             ))}
           </select>
         </Field>
-      ))}
-    </div>
-  );
+        <div className="language-grid">
+          {[
+            t("听力", "Listening"),
+            t("口语", "Speaking"),
+            t("阅读", "Reading"),
+            t("写作", "Writing"),
+          ].map((label, index) => {
+            const ability = LANGUAGE_ABILITIES[index];
+            const levelName = test === "tef" || test === "tcf" ? "NCLC" : "CLB";
+            return (
+              <Field
+                key={label}
+                label={label}
+                hint={
+                  test === "direct"
+                    ? undefined
+                    : `${t("换算", "Converted")}: ${levelName} ${a[key][index] || "< 4"}`
+                }
+              >
+                {test === "direct" ? (
+                  <select
+                    aria-label={`${key} ${label}`}
+                    value={a[key][index]}
+                    onChange={(event) =>
+                      changeRawLanguageScore(
+                        key,
+                        index,
+                        Number(event.target.value),
+                      )
+                    }
+                  >
+                    {Array.from({ length: 13 }, (_, level) => (
+                      <option key={level} value={level}>
+                        {level === 0 ? t("未考试", "Not tested") : level}
+                      </option>
+                    ))}
+                  </select>
+                ) : (
+                  <input
+                    type="number"
+                    inputMode="decimal"
+                    aria-label={`${key} ${label}`}
+                    value={rawLanguageScores[key][index] || ""}
+                    placeholder="0"
+                    {...scoreInputAttributes(test, ability)}
+                    onChange={(event) =>
+                      changeRawLanguageScore(
+                        key,
+                        index,
+                        event.currentTarget.valueAsNumber,
+                      )
+                    }
+                  />
+                )}
+              </Field>
+            );
+          })}
+        </div>
+      </div>
+    );
+  };
   function next(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
     if (!applicantSchema.safeParse(a).success) {
@@ -228,8 +341,8 @@ export function Calculator() {
               <div className="form-stack">
                 <p className="form-hint">
                   {t(
-                    "请输入有效语言考试对应的 CLB / NCLC 等级，不是雅思等考试原始分数。",
-                    "Enter CLB / NCLC levels from valid language tests, not raw IELTS or other test scores.",
+                    "可直接填写 CLB / NCLC，也可选择认可的语言考试并输入原始成绩，系统会逐项自动换算。",
+                    "Enter CLB / NCLC directly, or select an approved test and enter the raw scores for automatic conversion.",
                   )}{" "}
                   <a
                     className="text-link"
@@ -243,12 +356,22 @@ export function Calculator() {
                 <Field label={t("第一官方语言", "First official language")}>
                   <select
                     value={a.firstLanguage}
-                    onChange={(e) =>
+                    onChange={(e) => {
                       set(
                         "firstLanguage",
                         e.target.value as "english" | "french",
-                      )
-                    }
+                      );
+                      setLanguageTests((old) => ({
+                        ...old,
+                        first: "direct",
+                        second: "direct",
+                      }));
+                      setRawLanguageScores((old) => ({
+                        ...old,
+                        first: [...a.first],
+                        second: [...a.second],
+                      }));
+                    }}
                   >
                     <option value="english">
                       {t("英语 (CLB)", "English (CLB)")}
@@ -259,7 +382,7 @@ export function Calculator() {
                   </select>
                 </Field>
                 <h3>{t("第一语言四项等级", "First language levels")}</h3>
-                {languageInputs("first")}
+                {languageInputs("first", testsForLanguage(a.firstLanguage))}
                 <h3>
                   {a.firstLanguage === "english"
                     ? t(
@@ -271,7 +394,21 @@ export function Calculator() {
                         "Second language: English (CLB)",
                       )}
                 </h3>
-                {languageInputs("second")}
+                {languageInputs(
+                  "second",
+                  testsForLanguage(
+                    a.firstLanguage === "english" ? "french" : "english",
+                  ),
+                )}
+                <a
+                  className="text-link"
+                  href={LANGUAGE_TEST_SOURCE}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {t("核对 IRCC 官方换算表", "Check the official IRCC tables")}{" "}
+                  ↗
+                </a>
               </div>
             )}
             {step === 2 && (
@@ -309,7 +446,7 @@ export function Calculator() {
                         "Partner’s language CLB / NCLC",
                       )}
                     </h3>
-                    {languageInputs("spouseLanguage")}
+                    {languageInputs("spouseLanguage", LANGUAGE_TESTS)}
                     <Field
                       label={t(
                         "配偶加拿大工作经验",
@@ -532,6 +669,8 @@ export function Calculator() {
               setStep(0);
               setResult(null);
               setError("");
+              setLanguageTests(initialTests);
+              setRawLanguageScores(initialRawScores);
               sessionStorage.removeItem("compass-crs");
             }}
           >

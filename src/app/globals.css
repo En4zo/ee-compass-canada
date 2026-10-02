@@ -905,6 +905,10 @@ input[type="checkbox"] {
   grid-template-columns: repeat(4, 1fr);
   gap: 12px;
 }
+.language-entry {
+  display: grid;
+  gap: 14px;
+}
 .checkbox-card {
   display: flex;
   gap: 13px;

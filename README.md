@@ -62,7 +62,7 @@ tests/               单元、接口、真实 PostgreSQL 权限和浏览器测�
 
 1. 创建一个新的 Supabase 项目。
 2. 在 SQL Editor 执行 `supabase/migrations/001_initial.sql`。
-3. 复制 `.env.example` 为 `.env.local`，填写项目 URL、publishable key、仅服务端使用的 service-role key 和随机 `CRON_SECRET`。
+3. 复制 `.env.example` 为 `.env.local`，填写项目 URL、publishable key、仅服务端使用的 secret key 和随机 `CRON_SECRET`。
 4. 配置 Auth 的网站地址和回调地址，重启 Next.js。
 5. 调用一次受保护同步接口，导入 IRCC 历史抽选。
 6. 注册测试账户，验证发帖、回复、作者权限和邮件流程。
@@ -71,8 +71,8 @@ tests/               单元、接口、真实 PostgreSQL 权限和浏览器测�
 
 ## 4. 评分与数据边界
 
-- 规则版本：`IRCC-2025-03-25-reviewed-2026-09-18`。
-- 语言输入是 **CLB / NCLC 四项等级**，不是 IELTS 原始分；表单提供官方换算入口。
+- 规则版本：`IRCC-2026-06-22-reviewed-2026-10-01`。
+- 语言既可直接输入 **CLB / NCLC 四项等级**，也可输入 IELTS General、CELPIP-General、PTE Core、TEF Canada 或 TCF Canada 原始成绩，由经过测试的纯函数按 IRCC 官方表自动换算。
 - 无配偶、不随行配偶、配偶为加拿大公民/PR，按无随行配偶表计分。
 - 包含教育、语言、加拿大及海外经验、配偶、技能转移、法语、省提名、加拿大教育、兄弟姐妹和技工资格；不含已取消的 job offer 加分。
 - 技能转移合计最多 100 分，附加分最多 600 分，总分最多 1200 分。
